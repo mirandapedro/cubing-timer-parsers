@@ -1,0 +1,2899 @@
+1. 19.105
+
+U2 B' U2 R' B L' B D' B' L2 U2 F U R D R2 B2 F R2 D F L R U' B2 
+
+Sun Jun 21 13:21:07 BRT 2015
+
+2. 17.424
+
+F2 D2 F' L' B2 R U B2 D F' L' D2 B2 D U' F B U2 F2 R B U2 L' B' F 
+
+Sun Jun 21 13:20:32 BRT 2015
+
+3. 20.189
+
+B' R D2 R' F' D F' R U2 F' U R' U' R' L2 U' B R B R U B D2 B' U 
+
+Sun Jun 21 13:19:58 BRT 2015
+
+4. 18.402
+
+F2 L' D B2 U D2 F' L' U B' U' F' B2 D B' R' D B2 R' L' D' U2 F2 L' B' 
+
+Sun Jun 21 13:19:19 BRT 2015
+
+5. 21.711
+
+L2 R' B' R' L2 B2 R' B2 L U2 D R' L2 U' F B2 R' U2 B2 U F2 L' R2 F' R2 
+
+Sun Jun 21 13:18:44 BRT 2015
+
+6. 22.546
+
+R' D2 R' D2 B R L' D F2 U' D' R2 F D R B' D B R2 F2 R2 F R' D' B 
+
+Sun Jun 21 13:17:13 BRT 2015
+
+7. 22.246
+
+L' U' L B2 L2 F' U' L2 B' F2 R2 D L' F U F' R2 F2 R2 U2 L2 B' R' L2 F2 
+
+Sun Jun 21 12:56:13 BRT 2015
+
+8. 24.710
+
+F B R D' U2 R2 U2 D B' F' L' D' U R' L2 B F R2 F' U' D' L D R B 
+
+Sun Jun 21 12:55:23 BRT 2015
+
+9. 17.332
+
+R' F2 D2 L2 B' L R F U2 D R2 L2 F' U' R' D' L' U' L2 R' U B2 U2 D F 
+
+Sun Jun 21 12:54:38 BRT 2015
+
+10. 17.822
+
+L2 D R2 B2 R2 F B2 L2 D2 U2 L U2 L' U B' D' R B' R2 B' R B2 F2 D F2 
+
+Sun Jun 21 12:54:05 BRT 2015
+
+11. 21.330
+
+R L D' F' B' L U' R' F' B' D L' U' L2 D F2 U F' R' D2 U2 B' F2 U F 
+
+Sun Jun 21 12:53:25 BRT 2015
+
+12. 19.624
+
+D B' F2 D' U' B2 F2 R2 B2 F' R' D2 U2 F2 D' R U' B F L F' R2 L2 U L' 
+
+Sun Jun 21 12:52:44 BRT 2015
+
+13. 19.944
+
+L2 U2 D2 R U F' D B L B2 D' F L2 D R D' R L' D U' L' F U2 L B' 
+
+Sun Jun 21 12:52:08 BRT 2015
+
+14. 21.437
+
+D2 U' L2 B2 D' F2 L2 F2 B2 R' B F' L R' D B2 R U2 L D2 L B2 D B D' 
+
+Sun Jun 21 12:51:26 BRT 2015
+
+15. 13.865
+
+L U2 R' D F D' U F' U' F' U' R2 L2 F B U B R' B' F2 U2 L U' L F2 
+
+Sun Jun 21 12:50:47 BRT 2015
+
+16. 19.793
+
+F U D' B2 U' B2 U' F' B D' L2 D2 U B U F' L' F' D L' D' L2 U2 B R 
+
+Sun Jun 21 11:17:52 BRT 2015
+
+17. 21.650
+
+D' U F B' D2 B2 L' F D2 R U2 F B D U' L2 D' F' U' B' R' F2 U F D 
+
+Sun Jun 21 11:17:15 BRT 2015
+
+18. 20.341
+
+F2 R' B L' U' D R' L' D U2 R B2 R2 B2 U2 B' U2 L' U B2 U D R L B2 
+
+Sun Jun 21 11:16:24 BRT 2015
+
+19. 21.386
+
+R2 D L2 R2 D2 B' D2 B2 F R2 B2 L D2 L2 D2 F' L D' L R' U' D' B' L R 
+
+Sun Jun 21 11:15:44 BRT 2015
+
+20. 18.863
+
+U' L' U2 B2 U F' D' R' U' B2 F2 U2 B U F2 B' L' B U' D R2 D L' F2 R' 
+
+Sun Jun 21 11:15:01 BRT 2015
+
+21. 21.972
+
+F R2 L2 B D U B R' U' R2 U' R' L2 D2 U2 R B U' R F' B' R' U' R' L 
+
+Sun Jun 21 11:14:26 BRT 2015
+
+22. 18.940
+
+U' L' D R L B F' R B2 F' D2 L2 F' L2 U' R L D2 R2 L2 F2 R F L' F' 
+
+Sun Jun 21 11:13:46 BRT 2015
+
+23. 23.441
+
+U2 R' D L2 D2 R' L2 B2 R D' B R U' B F2 U2 F2 B2 D L B F U2 B' L2 
+
+Sun Jun 21 11:13:03 BRT 2015
+
+24. 18.676
+
+U' B' F L2 R2 B D2 B2 L2 F' B2 U2 L' U' F R2 D L R B' U2 R2 F' U2 B' 
+
+Sun Jun 21 11:12:21 BRT 2015
+
+25. 20.528
+
+U2 B F L2 D2 U2 R2 D' B U2 L2 B2 R U2 B' U' R2 F2 L2 F L' F' U' L2 U 
+
+Sun Jun 21 11:11:08 BRT 2015
+
+26. 19.359
+
+D B U D' L2 D' L' B2 R2 D U' F' B2 D' R' B R' U' R U L2 D2 L' R' F 
+
+Sun Jun 21 11:10:28 BRT 2015
+
+27. 17.155
+
+B2 R' B2 L' R' F2 R2 B2 L D B R2 L2 U' B L' F2 L' F' U' L' R2 B2 U D2 
+
+Sun Jun 21 11:09:14 BRT 2015
+
+28. 19.033
+
+R' D R' D' U2 R D' U2 L2 R2 U2 R' L D2 B U R' U' B' L F D2 F' D' F' 
+
+Sun Jun 21 11:07:47 BRT 2015
+
+29. 19.724
+
+F' B U2 L' D' U2 B2 L' F R' D U2 B U' L2 F2 B' R2 L2 D L' F U' D' L 
+
+Sun Jun 21 11:06:58 BRT 2015
+
+30. 23.962
+
+R U R U B' U F' B D U' B2 U L2 B' L2 U2 F B' U2 F' L2 U F D2 L' 
+
+Sat Jun 20 18:15:38 BRT 2015
+
+31. 18.655
+
+F R' L2 B F2 D2 F2 R2 F2 U B2 F U F' B' D L2 U2 D2 R' L' F' R' D' U' 
+
+Sat Jun 20 10:44:53 BRT 2015
+
+32. 21.700
+
+U' F R' B' D B2 F' U F' R2 F' R' B D L2 D' R' U2 B2 F2 D' L2 B F L' 
+
+Sat Jun 20 10:28:36 BRT 2015
+
+33. 24.942
+
+B L' F L2 R2 B2 L' B' R' F2 R' F B' R2 B2 R L' U' D L2 B' L D' L2 D' 
+
+Sat Jun 20 10:27:33 BRT 2015
+
+34. 21.568
+
+U D2 L2 B R' F2 R2 U B' U2 D2 F2 R2 L' D2 U' B2 F D2 F' B2 U2 R' U2 R 
+
+Sat Jun 20 10:26:08 BRT 2015
+
+35. 21.378
+
+L R B R2 L' U L' U' D2 B L B2 U2 L F2 L R B' F' R B F' U2 R2 F 
+
+Sat Jun 20 10:25:25 BRT 2015
+
+36. 18.800
+
+R2 L' U D2 F2 D2 R B D' F2 B' D F2 L' R' U B2 R2 D' F' L2 D' R2 B' R 
+
+Sat Jun 20 10:24:43 BRT 2015
+
+37. 16.254
+
+B L2 R' D2 F2 D' B' U' B2 U L D' L F' R L D' U B' L' R' F2 R U D2 
+
+Sat Jun 20 10:24:00 BRT 2015
+
+38. 24.662
+
+U2 L2 R' B' U L D' R F' B' R2 L' D' B D L D L2 B D' R U' L' F R2 
+
+Sat Jun 20 10:23:25 BRT 2015
+
+39. 16.708
+
+L F2 D F2 U2 F' B' L2 B' R2 B D2 B' U' B F L' F D2 F' B2 L2 B' D2 R 
+
+Sat Jun 20 10:22:40 BRT 2015
+
+40. 22.286
+
+L' R2 D' R' B' D2 R D' F D2 R' L' B' R' D U2 B2 D2 U R2 F2 L2 B U R' 
+
+Sat Jun 20 10:22:08 BRT 2015
+
+41. 19.172
+
+R U B' R F2 D' R' F R F' B2 R U' D' F2 L B L2 R D2 R2 U2 R U' R' 
+
+Sat Jun 20 10:21:26 BRT 2015
+
+42. 17.207
+
+L' D F U D L' B' D U2 R2 D2 U F' L U B F' L2 B L' R D' B2 L B' 
+
+Sat Jun 20 10:20:47 BRT 2015
+
+43. 22.881
+
+B' U R D2 L2 U' B2 U F' B L' D2 L U2 B2 U2 L' D2 B' R2 U2 D' F' U R' 
+
+Sat Jun 20 10:20:12 BRT 2015
+
+44. 20.360
+
+F2 R2 U D R U D' F' U' F2 R' F D' U2 L2 U R F2 R U' B' U2 D2 L' B' 
+
+Sat Jun 20 10:19:29 BRT 2015
+
+45. 21.909
+
+F' B2 U' B R2 U F2 D2 R B' L D' U B' U' B2 L' B' R' B F2 L B2 L' R2 
+
+Sat Jun 20 10:18:54 BRT 2015
+
+46. 19.821
+
+U' L U' B F2 D F2 D2 R' F U D2 R2 F' L' R F2 R L' D U F' U2 B D' 
+
+Sat Jun 20 10:18:16 BRT 2015
+
+47. 19.648
+
+U L B U2 B2 F U D' L' U' L' B U2 R U' L' U2 R' L B' L2 D2 B' U' L 
+
+Sat Jun 20 10:17:39 BRT 2015
+
+48. 17.328
+
+B L2 R2 U2 R2 F2 U F2 R' B2 D F2 D' L2 U' R2 U D2 L2 U R D2 U F' U 
+
+Sat Jun 20 10:17:01 BRT 2015
+
+49. 19.076
+
+R' L2 U2 L' R2 F2 R' L' D' B2 U' R' B' R' L D2 L D' L2 D' L2 R D F2 R' 
+
+Sat Jun 20 10:16:27 BRT 2015
+
+50. 20.163
+
+U L D2 B R B' L F U B' D' B2 R' U D R B' R F' B D U L R' U 
+
+Sat Jun 20 10:15:49 BRT 2015
+
+51. 19.390
+
+L D R2 B U' D2 B2 F R' F2 D' F D2 B2 F' U R' F' U' D2 L' R F L B' 
+
+Sat Jun 20 10:15:07 BRT 2015
+
+52. 17.321
+
+F' B' U D2 F2 U F' L2 B' R D' B2 F2 L' B' F2 L2 F' B R' L2 B U2 B R2 
+
+Sat Jun 20 10:11:53 BRT 2015
+
+53. 20.963
+
+B' R2 B2 F' U L' U' L F D' B' D2 R D R' U2 D R2 U' B L U2 R2 U L 
+
+Sat Jun 20 10:11:19 BRT 2015
+
+54. 23.662
+
+B2 R' L U2 R' B D F2 B' R2 F2 U R B D' U' L F2 B2 L D2 B2 R L2 F2 
+
+Sat Jun 20 10:10:36 BRT 2015
+
+55. 17.351
+
+F' L' B2 F D' R' U' L R U2 D L' F U D' F' L2 B2 D' U' B2 R2 L F' U' 
+
+Sat Jun 20 10:09:59 BRT 2015
+
+56. 21.572
+
+F' U' L' B' L2 R' F' B' D L' D' R' B2 L F R B' F2 U' D' L2 R B' U2 B' 
+
+Sat Jun 20 10:09:28 BRT 2015
+
+57. 21.928
+
+L2 R U D' B' D' R B F R2 L U F2 R' F2 D' B L D' B F' R2 L2 D' R' 
+
+Sat Jun 20 10:08:43 BRT 2015
+
+58. 18.815
+
+B D2 F L' B' F' L2 R' D' B R' U' R2 D2 R2 F' B L B L' B' R' F D R' 
+
+Sat Jun 20 10:08:02 BRT 2015
+
+59. 19.202
+
+R U2 F' L' D F2 L2 R B2 R U2 R' B U L U' L B U F B D' L' R B' 
+
+Sat Jun 20 10:05:18 BRT 2015
+
+60. 23.761
+
+U2 D B F L R F B' R' L2 D U' R D B2 D2 L U R2 D2 L' U2 B2 D' L2 
+
+Sat Jun 20 10:04:43 BRT 2015
+
+61. 18.133
+
+D2 L' U2 L2 B F2 U' D' L2 R' F R F2 B' D' L' B U2 D2 B2 L' R U' F2 L2 
+
+Sat Jun 20 10:04:04 BRT 2015
+
+62. 22.137
+
+L F' U2 R2 F' U2 B' D R2 B L2 R2 D' U' F' U' F2 R D2 B2 L U' D B' R2 
+
+Sat Jun 20 08:32:17 BRT 2015
+
+63. 22.062
+
+F2 D F2 U2 B R2 U R2 U' L' U2 D2 R U2 B' R' U' D2 L2 B F2 L U2 L D2 
+
+Sat Jun 20 08:31:37 BRT 2015
+
+64. 19.615
+
+R2 U' F B' U' L' B2 U2 L' D L' F L F' D' R2 D' U2 B F2 U2 R' B F' D' 
+
+Sat Jun 20 08:30:58 BRT 2015
+
+65. 14.964
+
+B R2 L' F' D R B2 U2 F B' R2 D' U L B2 U' F2 L2 R U2 D' R' F L D2 
+
+Sat Jun 20 08:29:32 BRT 2015
+
+66. 20.970
+
+L2 F' R' B2 L' U2 F U2 D2 R' U2 F2 L D2 U2 R' D' F' B R F D R' F' B 
+
+Sat Jun 20 08:29:01 BRT 2015
+
+67. 23.781
+
+F' U B' R2 B' U' L2 F2 R2 D' L' B' R' L' B U B' D2 U2 L F2 B2 R' L2 B 
+
+Sat Jun 20 08:27:27 BRT 2015
+
+68. 15.673
+
+R2 D2 F' D2 U R U R' L D2 U2 R' F' L2 B F' U D' R2 D' B D B F' D 
+
+Sat Jun 20 08:26:46 BRT 2015
+
+69. 21.584
+
+F' L' B' U' R B U' L B2 D2 B' F2 U F D2 U2 L' F2 U L' F2 B R2 D' R2 
+
+Sat Jun 20 08:26:11 BRT 2015
+
+70. 20.173
+
+F' R F' L2 R' U2 D' L D' L R' D' B' U2 B2 D F L' D2 F' U' L' D2 R2 F2 
+
+Sat Jun 20 08:25:30 BRT 2015
+
+71. 19.158
+
+B L' U2 F' R' U2 F2 D2 L U2 F' L2 D2 R F' D2 R2 D' F' D2 U' R2 U2 D F' 
+
+Sat Jun 20 08:24:53 BRT 2015
+
+72. 20.059
+
+R2 U D L' F2 D' L R' B' U2 F' D R' L' U2 R2 B' R B L' D R' L F R 
+
+Sat Jun 20 08:24:15 BRT 2015
+
+73. 22.723
+
+F2 U L' B2 U R F2 R2 D' B2 F2 D2 R2 B' L2 F B D' R' L2 D' B2 D L' B 
+
+Sat Jun 20 08:23:36 BRT 2015
+
+74. 17.760
+
+F' L2 B R' B2 L B2 L B' L F' L' U2 F' B R2 D' L F' L' B' D L B2 F' 
+
+Sat Jun 20 08:22:57 BRT 2015
+
+75. 18.395
+
+L2 B' R2 U' L2 F' R' L' D L' R' B2 R' U2 B R' U2 B2 D2 B L R2 U2 R2 D 
+
+Sat Jun 20 08:22:23 BRT 2015
+
+76. 19.812
+
+L U F2 R' B' D2 F' R L U' D2 L2 R' B U' R' D F2 R' B2 U' R' U' L' B 
+
+Sat Jun 20 08:21:48 BRT 2015
+
+77. 24.457
+
+L2 F B2 U2 L B' U R2 D L R U' D B' F R L2 D U B2 D2 R D2 F' R' 
+
+Sat Jun 20 08:21:11 BRT 2015
+
+78. 21.496
+
+F' B2 L' B2 U' R2 L B D R' L' F L2 B' U R' U' R2 L' D F' R2 D F L 
+
+Sat Jun 20 08:20:26 BRT 2015
+
+79. 15.600
+
+R2 D2 B R F D B2 U F R2 L' B U L D2 R2 U R2 D U2 B' L2 B2 D U 
+
+Sat Jun 20 08:19:46 BRT 2015
+
+80. 16.454
+
+F2 U L2 B2 D F' L2 B R' L' D U2 L2 U' L2 D' U' L D U2 R B' U B' D 
+
+Sat Jun 20 08:19:13 BRT 2015
+
+81. 17.381
+
+L2 U' F' R' D' B' D2 U' F' B2 L' B R2 D2 L2 B F2 D' F L' B2 D L' R D' 
+
+Sat Jun 20 08:18:40 BRT 2015
+
+82. 22.152
+
+B U' D' B' F' D2 F R' B' D' U' L' U' D L2 R' D U' F' D' F2 B R' F2 R2 
+
+Sat Jun 20 08:16:41 BRT 2015
+
+83. 14.378
+
+L2 D2 B R' F' R2 U R' B' L U D B U' D R' F2 R B D' R L' D L R' 
+
+Sat Jun 20 08:16:00 BRT 2015
+
+84. 15.297
+
+F2 U B2 U' L' R2 D U2 L2 D2 R2 F' R L2 F2 D2 F2 U' B' R2 L' U2 F B D 
+
+Sat Jun 20 08:15:28 BRT 2015
+
+85. 20.678
+
+F R2 D U2 B R D2 B2 D2 R' F' R2 F D R2 U' D2 B' U L2 R B U2 B2 U' 
+
+Sat Jun 20 08:14:53 BRT 2015
+
+86. 15.461
+
+L R' D2 U' F' B2 L' R' D' U2 F2 L' U' F' U2 B' L' U2 L' B2 D2 R' F D F 
+
+Sat Jun 20 08:14:16 BRT 2015
+
+87. 19.235
+
+D F L' D2 F' L' F' U' R' L' F D B' F R D' R L' B' R F2 U R' F D' 
+
+Sat Jun 20 08:13:19 BRT 2015
+
+88. 21.715
+
+R B D2 F2 D' B2 U' F B2 R2 B2 U L R' F B2 U' D F2 D2 L R B R' D 
+
+Sat Jun 20 08:12:42 BRT 2015
+
+89. 21.626
+
+U F2 R' U D' L R U2 D2 R2 D2 F2 B' L' D2 B2 F2 R' D' L2 F2 U R D' L' 
+
+Sat Jun 20 08:12:03 BRT 2015
+
+90. 15.696
+
+L U2 R U R2 U F D' R' F' D2 F' L2 R U2 F D' B' L2 B2 U F B L' R 
+
+Sat Jun 20 08:11:24 BRT 2015
+
+91. 17.743
+
+D2 U2 L2 R2 U' B2 D' L F' D' F B R2 F' L' U L2 D' L' U F2 L2 B2 L' B2 
+
+Sat Jun 20 08:10:51 BRT 2015
+
+92. 19.770
+
+D' B U B2 R2 U' D' F2 L2 R D' R2 D' L D' B' U' F B D' R2 B' U R D' 
+
+Sat Jun 20 08:10:12 BRT 2015
+
+93. 19.132
+
+R' L D2 U2 F B2 L' R2 U R2 B R' B F' R2 F U D2 L' B2 F2 R2 D2 R U' 
+
+Sat Jun 20 08:09:33 BRT 2015
+
+94. 21.404
+
+D2 U' R B R D' R2 F' B' D2 B U2 D' B' R F D' B L2 D' R U2 R L B' 
+
+Sat Jun 20 08:08:49 BRT 2015
+
+95. 20.304
+
+D' U' B R B F U' F' D' U2 L D' R D' R' U2 B' D B D2 F2 D F' B' R' 
+
+Sat Jun 20 08:07:55 BRT 2015
+
+96. 24.578
+
+B2 U L' R U' L2 B' F' U' R' F L' D B L U F2 U2 L' F2 B2 L' D2 F' B2 
+
+Sat Jun 20 08:07:13 BRT 2015
+
+97. 23.711
+
+L B' L F D' R U' B' L' U' L D2 U2 B2 D B U B L' D2 U B D2 F' R' 
+
+Sat Jun 20 08:06:30 BRT 2015
+
+98. 21.124
+
+B' R2 B' F' D2 B U' D2 F L2 B2 L2 F U R L2 B2 F2 R2 D F2 R' F L' F2 
+
+Sat Jun 20 08:05:49 BRT 2015
+
+99. 19.188
+
+D R L' U' B2 U2 B2 L' R' F' L D2 L' B2 F' L F2 U' D2 F' L2 F2 U' F2 R 
+
+Sat Jun 20 08:05:09 BRT 2015
+
+100. 24.890
+
+U' R' B' F2 R' D' R2 B2 R U2 R' F2 U2 L2 F' U2 L U2 F U L R' U' R B 
+
+Sat Jun 20 08:04:27 BRT 2015
+
+101. 16.327
+
+L' U' L U' L2 F D2 F2 R L2 F R2 D U' L D2 B2 R F2 B2 L F B D' B2 
+
+Fri Jun 19 15:49:09 BRT 2015
+
+102. 14.336
+
+L2 B' L2 B R' U B U2 L' R F L U B' R2 D' U' R' U' L2 F2 R U2 B2 D2 
+
+Fri Jun 19 15:48:29 BRT 2015
+
+103. 18.820
+
+L2 F2 R L F' B U D2 R F2 U B' D' U2 F2 U2 B' U2 B2 L' R' D F' L2 D2 
+
+Fri Jun 19 15:46:57 BRT 2015
+
+104. 16.585
+
+D2 L' R2 U' L D' R2 U' D' B' L' U R' F' B U' L' F2 U F L B' R2 F U 
+
+Fri Jun 19 15:46:19 BRT 2015
+
+105. 22.152
+
+L F2 U' F' B L U2 R' F' L' D U2 R2 L' U' R' D F2 U F' U2 L2 U2 L2 B' 
+
+Fri Jun 19 14:50:32 BRT 2015
+
+106. 20.581
+
+F D U' F' U' D2 F D U' B F' R' B' R2 F' U' R2 B L2 B2 L' D' B2 D' F' 
+
+Fri Jun 19 14:49:50 BRT 2015
+
+107. 17.689
+
+R' U2 L R F B D' R2 U2 B2 D' U2 R D2 L' U F' D' U' B2 F' U' L F2 U 
+
+Fri Jun 19 14:48:11 BRT 2015
+
+108. 18.265
+
+L B' F' U2 D' B2 U' D2 B2 F2 D' F2 R2 B D2 R' B F D' F U' B R' L F' 
+
+Fri Jun 19 14:47:26 BRT 2015
+
+109. 17.051
+
+L' F' L' R D' U L2 U' B' R2 L2 F R L' B2 F L' D2 L2 D R' L' D U L2 
+
+Fri Jun 19 13:52:14 BRT 2015
+
+110. 16.318
+
+B' R' D' B' D' F L' D B R L' F' R2 D L' D' R' U' R2 L2 B2 U' D L2 R 
+
+Fri Jun 19 13:47:48 BRT 2015
+
+111. 20.943
+
+L U' F' D' F2 B' U' B R U' F' U2 B F L2 R D' B' D2 F' B2 D F' R' F' 
+
+Fri Jun 19 13:47:12 BRT 2015
+
+112. 18.102
+
+L U2 B' F U L' F' L2 D U L2 D2 L2 U R' F2 B2 R B2 F L2 D R' U' R2 
+
+Fri Jun 19 13:46:34 BRT 2015
+
+113. 22.987
+
+F2 U D' F' R U R' D B L2 U L2 R' U B' U' L2 F U' B' U R' B2 L R2 
+
+Fri Jun 19 13:45:51 BRT 2015
+
+114. 18.309
+
+R2 B2 L2 R2 B' D' L U2 F2 L' B' F L2 F2 R U' B2 U' B R D2 B' U2 R2 U 
+
+Fri Jun 19 13:44:19 BRT 2015
+
+115. 22.176
+
+R2 F2 B2 U' L' D' F2 L' B' F2 U2 F R' F D2 F U' B' L2 R2 B F D2 L2 U 
+
+Fri Jun 19 13:43:44 BRT 2015
+
+116. 23.155
+
+B' U2 D2 F' R2 L D' R2 U' B2 F2 L B2 F R' D2 B U D2 L' R2 U L' F2 U 
+
+Fri Jun 19 13:41:55 BRT 2015
+
+117. 18.710
+
+F2 R' D' R' U' L F D2 L' B2 U' R F2 U2 D' B D L R2 U2 D F B' D2 F2 
+
+Fri Jun 19 13:41:15 BRT 2015
+
+118. 21.372
+
+U' F2 B' L2 F2 L2 D R B R2 L D U' L R U2 L2 F D' U L' R2 U2 L' B2 
+
+Fri Jun 19 13:40:37 BRT 2015
+
+119. 25.028
+
+U2 F L' F2 R2 D' U B2 R F' B2 L' B L2 D' B R' B' L2 B R L' B2 D U' 
+
+Fri Jun 19 13:39:53 BRT 2015
+
+120. 19.460
+
+B L' F B2 U' D R2 U' B U2 R' D R2 U2 R' F L U' F L F L' R2 B' U' 
+
+Fri Jun 19 13:39:06 BRT 2015
+
+121. 18.242
+
+L U2 D R' L F' R D' F' D U2 F2 U F2 D2 L2 R' D' F D U' F B R2 D' 
+
+Fri Jun 19 13:38:29 BRT 2015
+
+122. 22.745
+
+L' U B L' R U R2 D U L R2 B2 D F' B D2 L' R F' U' F2 B' L R' B 
+
+Fri Jun 19 13:37:00 BRT 2015
+
+123. 26.487
+
+R2 F B2 U D' F R' U' B2 U' L R B2 U2 L F D2 R2 D' F' B' D2 L2 D U 
+
+Fri Jun 19 13:36:19 BRT 2015
+
+124. 21.853
+
+R2 U' D' F' D U' L F' B U2 B' R' U2 R F' U L2 B R D' L' F2 L U2 R' 
+
+Fri Jun 19 13:35:30 BRT 2015
+
+125. 20.634
+
+D' R F2 B R' B2 D' F' D2 F2 R' U D2 R L U R' F' D2 F2 B D2 F2 U2 R 
+
+Fri Jun 19 13:34:49 BRT 2015
+
+126. 19.682
+
+L' R2 U D F R' L' D' L2 U' D2 F' B2 L2 U' L' D R2 F2 R2 U' R' U' D2 F' 
+
+Fri Jun 19 13:34:08 BRT 2015
+
+127. 19.499
+
+R' F' B2 D2 B2 L2 B R' L U2 F2 U2 L2 D R' B' F U R' B' U2 L' B F2 D' 
+
+Fri Jun 19 13:33:30 BRT 2015
+
+128. 20.993
+
+B' F' U' L R B2 L F' B' R' B U2 R B2 L2 B D B2 U R D B L2 D' U' 
+
+Fri Jun 19 13:32:49 BRT 2015
+
+129. 24.591
+
+B' F' L2 D' B2 F' U B' D2 B L F2 U2 D2 L2 B U2 B2 F D2 F L2 D' U2 L 
+
+Fri Jun 19 13:31:54 BRT 2015
+
+130. 17.385
+
+F L' U' F U B' R B' D2 F B U D F D B2 F2 R' F' U2 L' F' B' L2 B' 
+
+Fri Jun 19 10:49:50 BRT 2015
+
+131. 16.284
+
+L' F' U2 L B2 F2 U' B2 D F2 B2 L D' L2 F' R' D' L' B L' R' F D2 L' F 
+
+Fri Jun 19 10:49:16 BRT 2015
+
+132. 20.650
+
+U L2 D F U D2 L D2 B' U2 B2 F L' R2 F2 R2 F' U F2 R2 L F2 D2 L' D' 
+
+Fri Jun 19 10:43:33 BRT 2015
+
+133. 21.628
+
+L U' F L U' R2 L' D2 U2 R' D2 R' L2 B' F' R2 L' B2 F L2 B D' R U F' 
+
+Fri Jun 19 10:42:55 BRT 2015
+
+134. 17.041
+
+D U B2 L2 R' D' F R2 D2 L R F2 L2 U R B2 D2 U2 R' L B F2 U' R2 F' 
+
+Fri Jun 19 10:42:13 BRT 2015
+
+135. 20.659
+
+F2 R L U2 R2 D L' U L2 B F R' F2 U2 R B' R B' F D2 U F U2 R F2 
+
+Fri Jun 19 10:41:36 BRT 2015
+
+136. 19.752
+
+F B D L R' F R2 L F' U2 B U2 D2 R' B2 L' B2 L2 D2 U' F' R L2 F2 L' 
+
+Fri Jun 19 10:40:56 BRT 2015
+
+137. 16.565
+
+B L D B' L2 B L' R2 D' B2 F' L2 D' F' L R U' D2 F' R' F' B2 U B2 U2 
+
+Fri Jun 19 10:40:20 BRT 2015
+
+138. 17.303
+
+D B D F B L U F2 B R L D' L2 F' D2 F' R' L2 B F D U L' F2 R2 
+
+Fri Jun 19 10:39:48 BRT 2015
+
+139. 19.208
+
+B D F' L' F' R' L B U' L' R2 D2 B U' D' F' U R B' L' B2 L' F R F2 
+
+Fri Jun 19 10:39:13 BRT 2015
+
+140. 20.573
+
+R L2 D' B D R L' B U2 F2 B' D B2 D R2 D2 R L U R' D2 L' R2 U B2 
+
+Fri Jun 19 10:38:34 BRT 2015
+
+141. 17.351
+
+F R U2 L2 D R L' U R' U' R2 U' D' R' F U2 D F U2 D B R2 F' U D' 
+
+Fri Jun 19 10:37:56 BRT 2015
+
+142. 19.618
+
+B2 F2 L' D' U2 B' D L' R' U L2 F U' F2 L' U' D L' U' F' R' B' F2 U' F' 
+
+Fri Jun 19 10:37:21 BRT 2015
+
+143. 19.793
+
+B U' L F' R B2 D2 B U B' L F' B D2 F U L U' D F2 B R2 B' U R 
+
+Fri Jun 19 10:36:46 BRT 2015
+
+144. 19.078
+
+L2 B' R' F L D R2 D B2 R2 U2 F' B2 R' B' U' F2 U F R' L D' R2 L' D 
+
+Fri Jun 19 10:36:09 BRT 2015
+
+145. 21.796
+
+B2 D2 B2 R B' U' F U F B R' B2 U2 F' D' B2 R2 U' D' R2 L2 D2 R D2 R 
+
+Fri Jun 19 10:35:31 BRT 2015
+
+146. 18.453
+
+R' B' U2 D2 L2 F' R U' B2 D' F2 B R B' L' F B' L2 D2 U' B2 L U' F' U2 
+
+Fri Jun 19 10:34:49 BRT 2015
+
+147. 21.993
+
+R2 B D R' B' F2 L U2 B2 D2 B F2 D' B L' D2 F2 U2 B' R' U R' F R U 
+
+Fri Jun 19 09:57:22 BRT 2015
+
+148. 23.706
+
+B D' B' F' L' R' U' B R2 U B2 R F2 B2 D' R L' B F' D2 R2 L F U' B 
+
+Fri Jun 19 09:55:49 BRT 2015
+
+149. 20.150
+
+D R2 D2 B2 D F B2 R' F' R B L' B' R' F2 B2 U F2 R D' F' L D2 B2 R2 
+
+Fri Jun 19 09:55:06 BRT 2015
+
+150. 19.944
+
+F' R' B D L2 F2 B L2 F' D' R' D F R2 L' B' D' L U2 L' D2 U' F' D' F' 
+
+Fri Jun 19 09:54:26 BRT 2015
+
+151. 21.176
+
+F2 U D L2 D U' R F2 B2 D R' D2 U B2 L2 D R' D' U2 L2 U' R B2 L D2 
+
+Fri Jun 19 09:53:48 BRT 2015
+
+152. 18.485
+
+F B D' B2 D' F' B2 R2 F' B2 U' F2 U2 L F2 U B' D B L' F' U' D L' R' 
+
+Fri Jun 19 09:53:11 BRT 2015
+
+153. 22.210
+
+D2 L' R2 U2 R' L' D2 L U' D' R2 F D R' D F R D2 L2 R F2 D' R B D 
+
+Fri Jun 19 09:52:34 BRT 2015
+
+154. 18.567
+
+R' U2 R2 F' D2 R' L2 D2 F R L2 F2 D2 R2 U2 R B' D2 B F2 U2 L' R2 D' F2 
+
+Fri Jun 19 09:51:55 BRT 2015
+
+155. 18.671
+
+F2 U2 D2 B' F' U' B2 U2 R2 D U B D' B' D2 R' B D R2 D2 F' B' U' B2 U' 
+
+Fri Jun 19 09:50:15 BRT 2015
+
+156. 20.143
+
+B' R' L2 D' F2 B' U L U2 R D' B2 U2 L2 R' U2 R' L F L B' D' L U2 F2 
+
+Fri Jun 19 09:49:39 BRT 2015
+
+157. 17.356
+
+B L2 R' B' L2 D2 F' R2 B L2 B2 D L B F' D R' L' F2 R' L' F2 U2 R' F' 
+
+Fri Jun 19 09:49:00 BRT 2015
+
+158. 18.832
+
+R' U2 D' R2 U' F' B2 L F' U' R' D' L R' B F' R2 D2 R U F U' L2 U L 
+
+Fri Jun 19 09:48:23 BRT 2015
+
+159. 17.696
+
+R2 L U2 R L2 F' R2 D2 B' D L2 F2 R' U' R D L2 D' B U' L F L2 R F 
+
+Fri Jun 19 09:47:49 BRT 2015
+
+160. 20.065
+
+L2 B R L2 D U' B R U D2 R F' L2 B R2 B2 U' D2 R2 B F D2 L' R' B' 
+
+Fri Jun 19 09:04:50 BRT 2015
+
+161. 19.691
+
+U2 F2 B' L D L' F' B R U' B R' L F R' B' R2 L2 D2 B R' B' L2 R B2 
+
+Fri Jun 19 09:03:42 BRT 2015
+
+162. 21.863
+
+B' D U' L2 U B2 R2 U' F2 R' L' D' R2 L F2 U' B2 U F' D' U' R' U2 L' B 
+
+Fri Jun 19 09:02:59 BRT 2015
+
+163. 18.591
+
+D' R U' F' U2 F L D2 B' D F L R B F' D' F D' U2 F L F2 D2 L' U 
+
+Fri Jun 19 09:01:56 BRT 2015
+
+164. 19.539
+
+F D L B' L2 R' D B2 U' L U2 B D2 L B' R B2 R' D' R' B' F2 U R2 D 
+
+Fri Jun 19 08:59:07 BRT 2015
+
+165. 20.177
+
+F U2 R' B2 D' B2 L R B' U2 L' D U' R' F L R D2 R' L' U2 D F R D' 
+
+Fri Jun 19 08:58:28 BRT 2015
+
+166. 19.980
+
+F2 U R2 D' R2 D' U L' F2 B2 D2 F B2 L U2 R2 F D B' D2 L F' B2 D2 R2 
+
+Fri Jun 19 08:57:45 BRT 2015
+
+167. 23.111
+
+R' F R B F2 L B2 U2 B2 U D' R L2 U2 R2 D2 F2 D2 F2 U R U' L' B L2 
+
+Fri Jun 19 08:54:58 BRT 2015
+
+168. 20.968
+
+R L B' F2 D' R' F2 L' B F2 L F' B2 L U2 R2 F' R' F D2 U2 R' D2 L D2 
+
+Fri Jun 19 08:54:15 BRT 2015
+
+169. 23.340
+
+B2 R' F' B D U R U2 D F2 D R2 L2 F B' L' D' B2 F' R' U B' F' D2 B2 
+
+Fri Jun 19 08:53:33 BRT 2015
+
+170. 28.457
+
+U2 R2 U2 R2 U' F' R L' D L2 U F B U2 L2 R2 U F D L' B' U2 L2 D L2 
+
+Fri Jun 19 08:52:52 BRT 2015
+
+171. 20.120
+
+R L2 F R' L D' L R' B' R2 U2 F D R2 D' F' B2 L D L' D2 U' R' L' U' 
+
+Fri Jun 19 08:52:04 BRT 2015
+
+172. 15.898
+
+B' U2 L U' R2 F2 B2 U' L' B' D B2 U' B2 U B R L D R U2 D2 B' L2 B' 
+
+Fri Jun 19 08:51:23 BRT 2015
+
+173. 18.733
+
+B' R' U2 L2 R2 B D' U2 R F' L' U2 L' D B2 D2 L D' L B D' U L' F' B2 
+
+Fri Jun 19 08:50:44 BRT 2015
+
+174. 21.097
+
+U2 F' D L' U R' L F' R2 U F' U B' D' F2 B U L2 F' B2 D2 R2 D F' B' 
+
+Fri Jun 19 08:50:07 BRT 2015
+
+175. 20.505
+
+R' D' R' L U F2 U R D U F' D' R2 U2 B2 R2 F L2 B2 U B2 L' R U' D' 
+
+Fri Jun 19 08:49:29 BRT 2015
+
+176. 16.019
+
+F2 R B2 U' D B L2 U R F B2 L' B D2 F2 R D R' L' B2 D' L D' U' F 
+
+Fri Jun 19 08:48:50 BRT 2015
+
+177. 19.443
+
+F' D R' U' D2 B2 R2 L' U2 D B' F' R2 B F R2 F R B2 R' D' L2 U' R2 U 
+
+Fri Jun 19 08:48:15 BRT 2015
+
+178. 16.138
+
+U L2 F D' U' B' R D2 B' U F' U B' L R' B2 L' B' R' D2 L' F' U2 R L' 
+
+Fri Jun 19 08:47:39 BRT 2015
+
+179. 04.569
+
+U2 D F' U' B2 U F D2 R2 F2 L U2 L D' U F2 B' D R' U B' L F U2 R 
+
+Fri Jun 19 08:46:11 BRT 2015
+
+180. 17.015
+
+L' R D2 F R2 D U R F2 R L' F' L B' D2 B L R' F' U2 D' B2 L' U R2 
+
+Fri Jun 19 08:45:12 BRT 2015
+
+181. 21.631
+
+L2 B D2 L' D' F B R2 U D F' U B L D F B' R' F B' R L' D' B L 
+
+Thu Jun 18 07:56:31 BRT 2015
+
+182. 18.078
+
+F2 L2 F' R' F' L B' L' D' U2 R' B U2 R L2 D B R2 D2 F' R2 D' U2 L' R2 
+
+Thu Jun 18 07:55:49 BRT 2015
+
+183. 21.740
+
+B2 F' R D' F2 L F' D' F2 R L' U F B L2 F L B D' F' L' U2 L2 B D' 
+
+Thu Jun 18 07:54:33 BRT 2015
+
+184. 21.019
+
+F2 R' F B D2 R' U' L R' U2 R' D2 U' B' R2 B R' L2 U' R2 L D F B U' 
+
+Thu Jun 18 07:53:49 BRT 2015
+
+185. 20.339
+
+B D2 F2 R' L' U' F2 B2 L2 F2 B U' R' U F2 B R F' R D2 R2 U2 D2 R2 L2 
+
+Thu Jun 18 07:53:11 BRT 2015
+
+186. 20.098
+
+L' U2 B2 U B' L2 U' F2 D2 U F2 D2 B L2 D' B2 L D2 B2 D U2 B' D2 F R2 
+
+Thu Jun 18 07:52:33 BRT 2015
+
+187. 19.116
+
+L F B U' F R' L2 D U B D2 U B2 D2 F' R' F U B R2 D2 F2 U' L2 U 
+
+Thu Jun 18 07:51:51 BRT 2015
+
+188. 24.047
+
+B' D B L2 U2 F' L2 U2 R' B' F2 R2 U2 F' B2 D R' U L' U' L' R' U F B 
+
+Thu Jun 18 07:51:06 BRT 2015
+
+189. 16.577
+
+L D' U2 R2 D L2 D2 U' B2 U' L2 U' B L2 F2 L' F2 R' D R2 U2 D2 F' R' L 
+
+Thu Jun 18 07:50:25 BRT 2015
+
+190. 20.013
+
+B' L2 F U R U L2 F D F' B' L' B U' F2 R2 B L' U L R2 D F' L2 B 
+
+Thu Jun 18 07:49:54 BRT 2015
+
+191. 18.420
+
+R U' B2 U B2 U' F' R2 L2 D' R2 U D L' R B R' F2 R D B2 L D B' R' 
+
+Thu Jun 18 07:49:15 BRT 2015
+
+192. 17.301
+
+B2 F2 R B R L U' B D' F U B L R B D U B L' B D B2 U2 F' L2 
+
+Thu Jun 18 07:48:38 BRT 2015
+
+193. 19.346
+
+L R F' B2 U' B R' B2 D' U F2 B R2 B' F2 D F' B' R U' D' R2 U' L2 F 
+
+Thu Jun 18 07:48:05 BRT 2015
+
+194. 19.316
+
+D' B2 D' F D' U' F D' U2 F R' L2 B2 D' R2 D2 U F' L' R' F U2 R B U' 
+
+Thu Jun 18 07:47:29 BRT 2015
+
+195. 21.044
+
+D' B' U' R L2 B2 R D' R D R' F2 R2 L2 D B' U D2 L B2 R U2 R D' L2 
+
+Thu Jun 18 07:46:47 BRT 2015
+
+196. 27.679
+
+B R' D2 F2 D B' L D2 B' D2 F2 L F U2 F2 B' U' B D U' R2 F2 R U2 B2 
+
+Thu Jun 18 07:46:06 BRT 2015
+
+197. 17.635
+
+F' B U2 F' U' D2 L2 F' R' U D2 B2 D F U D B2 F R' D' L F' U2 R B 
+
+Thu Jun 18 07:45:18 BRT 2015
+
+198. 21.636
+
+R' U' B2 F2 U2 F' D2 R F' L' F L' D L2 R D R2 L' D2 B2 R2 B F2 L B 
+
+Thu Jun 18 07:43:52 BRT 2015
+
+199. 19.853
+
+U B R' B2 L' U F D2 B2 D F' R2 B' R2 U D2 L B2 F2 L' B' L D' F2 B2 
+
+Thu Jun 18 07:43:11 BRT 2015
+
+200. 19.639
+
+B2 D' L2 F' D2 F' B2 D2 U L2 D2 L2 D2 F' U L' D R2 U2 F' D2 R U2 D' B' 
+
+Thu Jun 18 07:16:31 BRT 2015
+
+201. 21.902
+
+F' D' U' R' L' U D L2 B' F' D' F D R2 U2 B L D2 U2 B2 D' U' B2 U' F' 
+
+Thu Jun 18 07:15:53 BRT 2015
+
+202. 24.295
+
+B2 F U L D R D2 L' U' R2 U' R U' B' D L' F L2 U' D2 L2 F' R2 B2 F' 
+
+Thu Jun 18 07:13:55 BRT 2015
+
+203. 24.124
+
+L R' F U2 B' F R2 D B2 R' B2 F2 L' U2 D' L' R' D' R' L2 U2 L F U B' 
+
+Thu Jun 18 07:13:14 BRT 2015
+
+204. 27.302
+
+F2 B2 D B' R2 L' U' D R B U' D2 R2 F' B2 L F L' R2 F R B' R2 L' B' 
+
+Thu Jun 18 07:12:08 BRT 2015
+
+205. 24.816
+
+F B2 U D2 F U2 L' U' B2 L U2 R' F2 L2 B2 L' U' B' U D2 R' D2 U' B2 L2 
+
+Thu Jun 18 07:11:21 BRT 2015
+
+206. 22.688
+
+D2 U' L B2 U D' B F' D2 U2 F B2 R B R2 D U' B D B2 R U' R D2 L' 
+
+Thu Jun 18 07:10:30 BRT 2015
+
+207. 17.550
+
+B' U B L2 F' D2 F R2 F2 L2 U F' D' U' L' R U R B2 F R' L' U2 R' L 
+
+Thu Jun 18 07:09:28 BRT 2015
+
+208. 21.194
+
+D2 F R L' B2 F2 R' L2 U R' B' L2 D2 U2 B2 D B2 L D R' U2 D B L B 
+
+Thu Jun 18 07:08:53 BRT 2015
+
+209. 20.581
+
+B2 F U' D R2 F2 L D2 L' F2 U L D2 L R F' R' U' R2 B' D2 R2 L2 B L 
+
+Thu Jun 18 07:08:14 BRT 2015
+
+210. 21.980
+
+D' F2 B D2 L B R2 F' L' F B' U L D B L2 F2 R' B2 D' R2 U R2 D2 U' 
+
+Thu Jun 18 07:07:37 BRT 2015
+
+211. 22.273
+
+D U' R2 U F B U D' R2 U' L F' B L U D F' R2 F L D2 R' B' L D 
+
+Thu Jun 18 07:06:54 BRT 2015
+
+212. 19.201
+
+L D2 L R2 B2 D U R B' F D2 F B D' B2 U' F' D L' B' R F2 R2 D' B 
+
+Thu Jun 18 07:06:01 BRT 2015
+
+213. 22.074
+
+D' L2 F B2 L U' B' F2 R L2 F D R D' R' U L' D F L U' R' L B U2 
+
+Wed Jun 17 18:19:20 BRT 2015
+
+214. 21.970
+
+B' L' D F R L' D2 U2 R2 B R U' D' F2 U2 D2 R' L D' U' R F' L R' B' 
+
+Wed Jun 17 18:18:40 BRT 2015
+
+215. 19.563
+
+U' B' U F2 B R' U F2 L2 D' B U' L U R2 D U2 F2 B D' B' L' U D' B2 
+
+Wed Jun 17 18:17:59 BRT 2015
+
+216. 23.289
+
+R U2 R2 U' B' F L F D2 L' R F2 B R U' D B R' U' B2 R' U R2 D U' 
+
+Wed Jun 17 18:17:20 BRT 2015
+
+217. 14.621
+
+L' F U2 L2 F2 U' B' D2 L' F D U L R2 F' D R B' U D B L2 U D2 B2 
+
+Wed Jun 17 18:16:37 BRT 2015
+
+218. 23.427
+
+F2 L' D' B U' D2 R2 U' D B2 R L B' R2 F R2 L2 F R2 B U L' D' L' R 
+
+Wed Jun 17 18:16:07 BRT 2015
+
+219. 19.932
+
+B2 U B' D2 F' B' R2 F D' L R' F' B2 U' R B R D R2 F' L U' L2 F2 L' 
+
+Wed Jun 17 18:15:26 BRT 2015
+
+220. 20.331
+
+B U' D F B U' R2 U D' F2 R2 L U F2 L B' U2 F' R2 B' F' L2 F' U2 B 
+
+Wed Jun 17 18:14:47 BRT 2015
+
+221. 19.461
+
+B' D2 L2 R2 F U' F U2 R U B' R2 F L2 R D' L U' F' R' L' B' R U R 
+
+Wed Jun 17 18:13:10 BRT 2015
+
+222. 19.119
+
+U' R' D2 B D' F' L' D B R2 B2 R' U2 L2 F B2 U' B F' R F B U' L2 R2 
+
+Wed Jun 17 16:31:22 BRT 2015
+
+223. 22.613
+
+D L2 R' F2 U2 L' U' F D' B' U L R B' L R D2 U2 R D' R U' B' L' R2 
+
+Wed Jun 17 16:30:45 BRT 2015
+
+224. 16.207
+
+U2 R' L U2 F2 R' F2 L2 U D2 F B2 U' L2 U2 D2 B L D L' F2 R' U2 B U2 
+
+Wed Jun 17 16:30:05 BRT 2015
+
+225. 17.212
+
+L F2 B2 R' B U' R' L' U' R' D' F L2 D2 U2 F2 U2 F2 U2 L2 U R D2 U' B 
+
+Wed Jun 17 16:29:31 BRT 2015
+
+226. 22.795
+
+R' L2 D2 L' U2 R F' U F2 U2 R F2 R2 F2 L2 U' D L U2 D' R2 D B' U D2 
+
+Wed Jun 17 16:28:58 BRT 2015
+
+227. 18.666
+
+D L R2 B2 F' U L2 U D2 B U' B D2 U2 R' F' B' D L' B' F' U2 F2 U F 
+
+Wed Jun 17 16:28:18 BRT 2015
+
+228. 25.627
+
+L U' R2 B' U R' D R2 F B' L2 U2 L B R2 F' L D' R' D' R' L B2 D2 R' 
+
+Wed Jun 17 16:27:41 BRT 2015
+
+229. 22.957
+
+R' L2 U' F B' R2 D' R U' D2 F R2 F B' L R' D F' B R' U F2 U2 F B 
+
+Mon Jun 15 08:55:54 BRT 2015
+
+230. 24.554
+
+U F2 L D2 F' U' F' B2 L' U' B2 U' D2 L' R' F2 U2 F D L' B2 L2 F L F 
+
+Mon Jun 15 08:27:56 BRT 2015
+
+231. 21.290
+
+U D2 B' F2 U' B L2 D2 U' L R' D' B L2 R2 F' U2 R' D L B2 D R' D F' 
+
+Mon Jun 15 08:27:13 BRT 2015
+
+232. 23.206
+
+R' D2 B' R2 U L D R' L' F D2 B U D F D U2 B2 D' F L2 F R' L U' 
+
+Mon Jun 15 08:26:32 BRT 2015
+
+233. 22.904
+
+U2 R2 B D2 R2 U2 F D2 F2 U2 L' B' L' U B R D F2 R2 U L' B2 L B2 F 
+
+Mon Jun 15 08:24:49 BRT 2015
+
+234. 19.810
+
+D2 U2 R2 B R' B L U2 D2 F2 R B' D B U2 L2 U2 L' F R2 U F D2 R' D2 
+
+Mon Jun 15 08:23:48 BRT 2015
+
+235. 23.006
+
+U B2 L R D2 F' D F D' B R' U D' B F2 D' B R F D L' F R2 F' D' 
+
+Mon Jun 15 08:12:18 BRT 2015
+
+236. 19.803
+
+U R2 L' D B' U2 F' D' R U2 L2 F U D R' U' B U2 F2 L2 R B R2 F2 L' 
+
+Mon Jun 15 08:11:33 BRT 2015
+
+237. 24.849
+
+R2 U' D' F' U2 B L2 D' R2 U2 D' F2 B2 R' L2 F D' R U2 B' R2 U' B' R' L2 
+
+Mon Jun 15 08:10:56 BRT 2015
+
+238. 24.240
+
+D' F2 L' B' R2 L' B2 R U2 F' L' U F' D F U' L2 B2 D' L2 D' L2 D' F2 B' 
+
+Mon Jun 15 08:10:12 BRT 2015
+
+239. 22.976
+
+U' L' F' R L2 F' B2 L2 F' L2 D2 F U L2 R' D2 R2 U F L2 B2 L' B U2 D' 
+
+Mon Jun 15 07:57:11 BRT 2015
+
+240. 24.029
+
+F2 L U' D' B2 U2 L U' D' F' U' L' B R L' D2 U' B R2 B' D' L' B L' R2 
+
+Mon Jun 15 07:56:19 BRT 2015
+
+241. 23.837
+
+D L2 U' R2 B' U2 D R' L' B2 D U B2 U R2 L' D U2 F U L2 R F' B L 
+
+Mon Jun 15 07:55:32 BRT 2015
+
+242. 20.618
+
+B2 D2 R' B' F L' D' F' R U2 L' B' F U R U' R F2 D B2 L R' B U2 L 
+
+Mon Jun 15 07:54:38 BRT 2015
+
+243. 17.903
+
+U R' L' U L2 B2 U B D' U R2 U2 L' B2 F L R2 F' U' F2 L' B2 F D2 L 
+
+Wed Jun 10 14:29:18 BRT 2015
+
+244. 28.017
+
+D2 F D' F' B L2 U2 R F' D2 L D B' U2 B' R U2 B F' R' U2 B' L R B2 
+
+Wed Jun 10 14:28:22 BRT 2015
+
+245. 23.479
+
+B' R2 D' R F L' D2 L D' U' R' L' F2 L B' U' R' F2 L' F L U2 D' L R 
+
+Wed Jun 10 14:27:30 BRT 2015
+
+246. 26.500
+
+D B F L2 D' L2 U R2 D2 B F' D B R' B2 L2 B R L B2 F' D2 F D' F 
+
+Wed Jun 10 14:26:19 BRT 2015
+
+247. 24.102
+
+D' R2 L' U' F2 B' R' U' D F' D2 L D U2 F' U2 R F2 B2 U' F2 D' F2 D' U 
+
+Wed Jun 10 14:18:00 BRT 2015
+
+248. 20.754
+
+R2 L U D' B2 D L2 D2 R2 L B' D' U B' D' R' D2 R D2 L' R D' U2 L2 R' 
+
+Mon Jun 01 11:51:09 BRT 2015
+
+249. 21.454
+
+B2 U' D2 B' L2 B' F D' U' L' D' L' R2 F2 U' F R' B2 R F2 U2 D2 L' F2 U2 
+
+Sat May 30 15:14:57 BRT 2015
+
+250. 21.911
+
+D2 U2 L2 R2 D' U L2 F B2 R' L D B L' R F B' D' L' R F' D2 U2 R' L' 
+
+Sat May 30 15:14:10 BRT 2015
+
+251. 22.067
+
+F2 B2 L2 U L D B R U D' F2 D2 B2 L2 F U' L' B' D' R B' R2 D R' U 
+
+Sat May 30 14:41:44 BRT 2015
+
+252. 19.550
+
+F' B U2 F2 B2 D' U' B D F L' R F' D F2 R2 F2 D L' F2 L F U' D R 
+
+Fri May 29 08:03:49 BRT 2015
+
+253. 21.312
+
+D L2 D2 U' L R2 B' L2 U' L F2 R2 L2 F2 L' R' B' L2 R U2 F2 D2 U' F U' 
+
+Fri May 29 08:00:52 BRT 2015
+
+254. 17.001
+
+B D U B2 F R2 U' R L2 U2 D' F2 R' U2 L' D F2 B R U' D2 F2 B R L' 
+
+Fri May 29 08:00:08 BRT 2015
+
+255. 20.669
+
+B2 L' U' R F D U2 R F2 U F2 R' F2 L' F2 U2 L R' B' D2 F R2 U2 R U2 
+
+Fri May 29 07:59:22 BRT 2015
+
+256. 19.854
+
+B2 R' L' D2 R B2 U D2 F' R' F2 B2 L2 D U' F2 D B' D2 L2 U2 B F2 R D' 
+
+Fri May 29 07:58:40 BRT 2015
+
+257. 17.908
+
+D L' F' R' L2 U' B D2 B' U L2 D' U2 L D' F2 U' B' R2 D' L U B' F U' 
+
+Fri May 29 07:58:03 BRT 2015
+
+258. 18.623
+
+F2 L2 U F2 D2 F R' F' L' R2 B2 L F L U' D F' B' R U2 R' U L2 F D 
+
+Fri May 29 07:57:26 BRT 2015
+
+259. 20.610
+
+F R' U2 D' F L' U2 B D2 F2 R2 D2 R2 B2 D' L D' U' L R2 D2 U' L2 F' L' 
+
+Fri May 29 07:56:51 BRT 2015
+
+260. 28.929
+
+L2 B2 F D B2 D' R' U2 B2 L' D2 B' F D' U2 L F U R2 D B2 F U' F' D' 
+
+Fri May 29 07:56:08 BRT 2015
+
+261. 19.181
+
+R F2 L2 D' U' B2 F2 L2 U D F' U R' B2 D2 U R2 D2 F2 U' D2 B F2 D2 U' 
+
+Fri May 29 07:54:42 BRT 2015
+
+262. 24.225
+
+R2 L2 D2 R U F L' B D F' B' D2 F2 L2 D' U R2 D2 B2 F2 D2 U' R D2 F' 
+
+Fri May 29 07:54:05 BRT 2015
+
+263. 22.952
+
+F2 D' F' D2 B2 L R2 B2 D' L2 B U B L' R2 U D2 R' F B2 D F' B2 D2 B 
+
+Fri May 29 07:53:23 BRT 2015
+
+264. 20.407
+
+R2 F2 B' L2 B' U' D' B' D U R U F B U' B2 R' D2 L2 F U2 F D F' L2 
+
+Thu May 28 12:39:18 BRT 2015
+
+265. 21.082
+
+F2 D B2 L2 U2 L' B F' U' R F' B2 R U2 B' R' L F2 L R B' R' F' U2 F2 
+
+Thu May 28 11:13:11 BRT 2015
+
+266. 25.327
+
+U L' U F L2 D' L F D F2 D L' D L' B U R2 B' R' U' F B2 L2 F' D2 
+
+Thu May 28 09:55:43 BRT 2015
+
+267. 24.582
+
+B2 L R' F' R2 D L2 U2 D2 F L2 U R L' B2 L U F2 B' R' U D2 R' B D 
+
+Thu May 28 09:54:27 BRT 2015
+
+268. 24.180
+
+B U' L F2 L' U' R L F2 D2 U2 B2 U R' L F B' D R' L2 U F B2 L U' 
+
+Thu May 28 09:53:16 BRT 2015
+
+269. 21.427
+
+F B D2 B2 D' B L R2 D' B U2 L' R B2 D L' D' U F B L F L' F' B2 
+
+Thu May 28 08:57:08 BRT 2015
+
+270. 17.765
+
+D' L F U D F2 R' U2 R2 D' U R' L2 U' L U2 F D U' R F U2 L2 D' R2 
+
+Thu May 28 08:52:58 BRT 2015
+
+271. 20.349
+
+B D' B2 F U F L' B L2 F B U' R L2 F2 U B' U2 B2 F' R2 L' F' B' U' 
+
+Thu May 28 08:52:19 BRT 2015
+
+272. 26.314
+
+F2 L2 R U2 B2 D B2 D2 L2 D' U2 L B R L' B2 D' B R L2 D2 R2 F' R' D' 
+
+Wed May 27 14:35:54 BRT 2015
+
+273. 22.815
+
+U2 F2 B' U' F D2 L U R2 F2 R D' B R2 U D B D2 F' R2 D' R' L' B F 
+
+Wed May 27 14:35:07 BRT 2015
+
+274. 22.931
+
+U2 B U R' F2 B U L2 F' L' U D2 F' R D2 U2 L' R2 B2 F' D B' R2 L2 F 
+
+Wed May 27 14:33:23 BRT 2015
+
+275. 20.777
+
+F' L' D2 U R2 U L D' B R2 L' U2 R2 D' F' B2 L' U2 L2 F2 R B D2 F' L' 
+
+Wed May 27 14:32:37 BRT 2015
+
+276. 26.182
+
+R F B' R F2 R' F L D R' D2 R2 U B2 F D2 B' D R2 U' L U D2 R U' 
+
+Wed May 27 14:31:39 BRT 2015
+
+277. 20.497
+
+F2 R2 D R2 B' R F L2 B2 R2 D2 L2 B U2 L U R' D L2 F R U D2 L' F2 
+
+Wed May 27 14:30:39 BRT 2015
+
+278. 24.474
+
+F' R2 F' D2 R' F2 L B F D U L U' D2 L B' R2 F' B D R U' L' D B2 
+
+Wed May 27 14:29:57 BRT 2015
+
+279. 17.566
+
+B2 D' F U' D L2 D U L F' R2 F' B D' U F' D' U R' B' F L R2 D F 
+
+Wed May 27 14:15:15 BRT 2015
+
+280. 23.735
+
+U D F B D2 R' L B2 R L' U' R2 L F2 L2 F2 D2 B R L F' U' B R F' 
+
+Wed May 27 14:03:00 BRT 2015
+
+281. 20.315
+
+R2 L' D2 U' R2 F U L' F2 B2 U L2 B' F' U2 R' F B2 R2 B D2 R2 D R2 U' 
+
+Wed May 27 14:02:13 BRT 2015
+
+282. 16.102
+
+F D B D F2 D L D B' U L' R B2 R B2 F D' F D' L' U' L2 F' B2 U' 
+
+Wed May 27 10:58:37 BRT 2015
+
+283. 21.636
+
+R2 L B2 D' L' F L' B D' L2 R' B' D2 R' U F' D' R D' B L' F2 D' F R2 
+
+Wed May 27 10:58:02 BRT 2015
+
+284. 23.166
+
+F B2 R' B2 L F' U L' D R' U' R2 B D' R2 L D R' U' R' U2 L' D2 U F2 
+
+Wed May 27 10:57:24 BRT 2015
+
+285. 23.986
+
+U' D2 L2 D2 R' L B D L' F D2 B2 R U B' F2 D2 B2 R2 U D' F D2 R2 B 
+
+Wed May 27 10:56:44 BRT 2015
+
+286. 22.738
+
+R D2 R2 B R U2 B' D' B' L' F' U' R B U2 R2 D' L R2 B' U2 L2 U D' B2 
+
+Wed May 27 10:55:07 BRT 2015
+
+287. 21.033
+
+R U F' D' R2 B2 R' B2 R D R2 U' B L D' F R2 F' U' F L2 R2 F R B 
+
+Wed May 27 10:54:10 BRT 2015
+
+288. 21.788
+
+F' L' B F' U R2 U' F2 U' R' D' R' L F2 D2 B' L2 U' D' L2 B2 D R' F D' 
+
+Wed May 27 10:53:28 BRT 2015
+
+289. 18.115
+
+R F' D B F' L2 B R' U2 F L' F2 B' D' L F2 B R2 L B R U L2 B' L' 
+
+Wed May 27 10:52:38 BRT 2015
+
+290. 11.925
+
+R2 D F2 L' B F2 R2 B2 D L D' U B2 L' F2 D' R2 D2 B D2 F B2 D2 U2 F2 
+
+Wed May 27 10:48:04 BRT 2015
+
+291. 20.971
+
+B' L' R U' L' B R2 L2 F L2 B D' B2 U' D' B D' U' L U' F' L2 R' U R' 
+
+Wed May 27 10:47:35 BRT 2015
+
+292. 17.245
+
+U R2 D' B2 L R2 F2 L R B U2 L' U F' L' F2 L' D U R B' F' U2 F' B' 
+
+Wed May 27 10:46:53 BRT 2015
+
+293. 22.460
+
+D F U' F' U' D' F' B' R' F' D2 U2 F D R D2 B' R' L' U2 R' F2 B L D' 
+
+Wed May 27 10:46:15 BRT 2015
+
+294. 18.543
+
+B D' R2 F' R L' U D' B' F' U F' U2 L2 F' D2 L B R2 U R' B R D2 L 
+
+Wed May 27 10:44:51 BRT 2015
+
+295. 18.914
+
+U' F' B2 L' B F R' F R2 U2 R2 L F R B F2 L' U B D U' R B' L F2 
+
+Wed May 27 10:43:21 BRT 2015
+
+296. 18.935
+
+L' D2 F' R B L' R F2 U' D L' F U2 D2 F B L B2 R2 F2 U2 R' D' F B' 
+
+Wed May 27 10:42:39 BRT 2015
+
+297. 18.117
+
+D' U' F2 L2 R2 U2 D2 B D U' B F' U2 F2 U2 F' D R' B F R2 U2 L U' F' 
+
+Wed May 27 10:41:54 BRT 2015
+
+298. 20.859
+
+D2 B2 F U F2 R' U2 B' U2 F2 L2 U' R2 B' L U' D F B' U B R' F' R2 L 
+
+Wed May 27 10:20:31 BRT 2015
+
+299. 18.231
+
+U' L D B' R2 B' R F' B2 R B L R B F D2 L2 D' F' U F' L B F' R 
+
+Wed May 27 10:12:19 BRT 2015
+
+300. 19.782
+
+L U2 D' F R2 L' D' U' F' D2 B2 U' L R' U' D2 F2 B2 U2 D2 R2 D' R2 F L 
+
+Wed May 27 08:59:28 BRT 2015
+
+301. 22.337
+
+U2 D2 B2 D' F' U' L R2 B D2 L2 F' B' U' L' B' R' B2 F D' U' L U F' R' 
+
+Wed May 27 08:58:47 BRT 2015
+
+302. 22.145
+
+R' D2 B' U2 D2 F2 B2 L2 D' F D2 U' F2 L' D' B2 D U R' F' R' B' U' D B 
+
+Wed May 27 08:56:58 BRT 2015
+
+303. 16.140
+
+R' U' D' R' L2 U L R' D2 F R2 U' R F' B' U2 B' L F B' R2 D2 F' D2 L2 
+
+Wed May 27 08:56:18 BRT 2015
+
+304. 20.773
+
+U D2 L2 B2 U F' R2 D F2 D' F2 B' D F' D U R F U B R' U' L U D' 
+
+Wed May 27 08:55:12 BRT 2015
+
+305. 17.836
+
+R' B' D' L2 B' U D2 F2 L' R2 D' B' F' R' L' D L U' D' L U' D B D U 
+
+Wed May 27 08:54:32 BRT 2015
+
+306. 19.101
+
+R L2 D' R2 U F' L B' U B' L R2 F' U' L2 F R' D R' B' F' L2 F B2 L' 
+
+Wed May 27 08:53:53 BRT 2015
+
+307. 20.925
+
+R2 L F2 B2 D' U' B R L U L' R2 B2 R B2 D2 B' F2 L' U' D2 F2 B2 R2 L 
+
+Wed May 27 08:53:12 BRT 2015
+
+308. 18.950
+
+L' U' R L B2 L R2 D' R U R D' R2 U D2 B D L B D B U2 F2 B L' 
+
+Wed May 27 08:52:31 BRT 2015
+
+309. 20.853
+
+U2 F' B2 R' F' B' D' L U2 L' R' B' L B2 R2 U' D R F2 U2 L R2 D' B2 R' 
+
+Wed May 27 08:51:42 BRT 2015
+
+310. 18.652
+
+L U' B' D U F2 B L' F' D B' U' B2 F L2 B' L' F2 L B2 L' F2 R' F' B' 
+
+Wed May 27 08:50:58 BRT 2015
+
+311. 25.791
+
+U2 D L2 R2 U2 F2 B2 D' R B2 R U D F L U' F2 U2 L' F2 B U2 B U2 R' 
+
+Wed May 27 08:50:14 BRT 2015
+
+312. 23.623
+
+D2 U2 B2 F2 R2 U' R F2 D2 F' B' L B2 D' U L B2 U D L2 U' D' L B2 U 
+
+Wed May 27 08:49:24 BRT 2015
+
+313. 19.899
+
+B D' F2 U R B U F R' U F2 U2 L2 D F L B F' U D' F2 U R2 L2 B 
+
+Wed May 27 08:48:38 BRT 2015
+
+314. 22.640
+
+L R' B2 D B2 L B' U B' L2 D F B2 L B2 U2 B2 F2 U' D F R' D' L B' 
+
+Wed May 27 08:10:40 BRT 2015
+
+315. 24.572
+
+F L2 U2 B F' L2 D' U L' U2 D2 R D2 R2 U2 L U2 D2 L F' U D' L' F B2 
+
+Wed May 27 08:09:42 BRT 2015
+
+316. 19.913
+
+U' F L2 U2 L U B' L' R' F2 D' F B R D F2 R B2 R L' F B R U' F' 
+
+Wed May 27 08:08:27 BRT 2015
+
+317. 21.103
+
+D2 L B2 L2 R2 B2 F D2 B' F L2 R2 U' B U' L' B R' F L B2 R2 U' B' R' 
+
+Wed May 27 08:06:13 BRT 2015
+
+318. 20.402
+
+F' R' D U2 R L B U' L' F' D2 U2 B U2 B2 D U R2 B' U R' B L2 B2 L 
+
+Wed May 27 08:05:34 BRT 2015
+
+319. 21.110
+
+L' U' F' L U L F' L D' F2 L2 B2 U2 L' R2 D' R2 F D U F L' R B L' 
+
+Wed May 27 08:04:50 BRT 2015
+
+320. 20.236
+
+R2 D2 L2 F R U' R U2 F B2 L D' F' U2 F' L2 B2 F' L' U' D R2 U' F D 
+
+Wed May 27 08:04:12 BRT 2015
+
+321. 17.161
+
+U2 L D2 R2 B2 L2 B2 F2 U' B U R L2 B' U B D F L2 B F' R U2 R2 D2 
+
+Wed May 27 08:03:31 BRT 2015
+
+322. 24.790
+
+L2 U' D2 F2 L U' L' U' F2 D2 R' F L2 B' F D2 L R2 U2 L2 F B' R' B2 L2 
+
+Wed May 27 08:01:31 BRT 2015
+
+323. 21.740
+
+B2 U2 L U B F2 R2 U' L D' B2 U B' R U2 R' U2 B2 U' R' U2 B F' D' R 
+
+Wed May 27 08:00:46 BRT 2015
+
+324. 22.524
+
+U R' F' U2 L D' L2 B2 U' B' R' U' F' U2 R2 D B D2 R' B2 F U D B2 R 
+
+Wed May 27 08:00:06 BRT 2015
+
+325. 22.274
+
+B F2 U L D' F2 U' B2 F L F2 U L2 R2 U F2 L' R' F2 U' L' B2 U' B F' 
+
+Wed May 27 07:59:20 BRT 2015
+
+326. 26.924
+
+F B L' R F' R' U2 B' F2 R2 L F D B D' F U L' D2 L' B' L U F D' 
+
+Wed May 27 07:56:58 BRT 2015
+
+327. 21.588
+
+F' U F L B F L2 D' B R D U' B' U' D L' F U' F' D' F2 D F L2 D 
+
+Wed May 27 07:55:10 BRT 2015
+
+328. 21.849
+
+L2 B L2 B D2 L' U2 F U' F D' U L' D' F' B2 D' B L2 F2 D' U2 B' U2 D 
+
+Wed May 27 07:54:30 BRT 2015
+
+329. 22.947
+
+L' D F2 L R F2 L' F2 U F2 U' L B2 D L2 B2 L' U' L' U D B D' R' U 
+
+Wed May 27 07:52:54 BRT 2015
+
+330. 27.351
+
+L2 F' D' B' F R2 F2 D R L2 F D' F R' B2 F2 R D F L R' F D2 R2 B' 
+
+Wed May 27 07:52:11 BRT 2015
+
+331. 21.602
+
+L' D2 L D L R B U2 L U F' L U' L R2 D B2 L2 R' B F R' F2 D' B2 
+
+Wed May 27 07:51:25 BRT 2015
+
+332. 22.881
+
+F2 D' U2 B' R' D B F U2 D2 L' B' D L D L2 D2 U L2 F2 L' F2 U2 L2 F' 
+
+Wed May 27 07:50:42 BRT 2015
+
+333. 22.532
+
+D2 U B F' R' L' D' L2 B' F U' L D2 L R2 F2 R U L' F U' F D2 R U2 
+
+Wed May 27 07:49:59 BRT 2015
+
+334. 22.766
+
+L2 B2 R2 D U L2 B' R2 D2 L F L2 D' F2 D2 L2 F' B2 U' F2 R2 F2 D2 B' R2 
+
+Wed May 27 07:23:12 BRT 2015
+
+335. 21.775
+
+L R U' F2 L F2 B' D' L2 D L2 D' B' L2 R D2 B' F L' R' F' D2 F L B2 
+
+Tue May 26 16:49:37 BRT 2015
+
+336. 20.082
+
+F2 U2 D' B F2 D' R' F2 D' L' U' B2 L D2 R2 D R2 D B' R L2 B' U' D2 B 
+
+Tue May 26 16:48:56 BRT 2015
+
+337. 23.631
+
+D L2 D2 F' R2 U2 R' U2 B R' F U2 F D2 R2 B F2 L' B' L2 U' B2 D B2 D' 
+
+Tue May 26 16:47:55 BRT 2015
+
+338. 24.171
+
+F' R2 F2 R' B' D R2 B2 R L U R2 U2 F' R U R F' R' U2 R' D2 L B R 
+
+Tue May 26 16:47:16 BRT 2015
+
+339. 22.493
+
+B2 D' L' B D2 L' D2 L' U D2 L D' U B F' R B' L2 R2 U L' B R2 D' F2 
+
+Tue May 26 16:46:33 BRT 2015
+
+340. 17.213
+
+U2 L2 D2 F R D' B' L U2 F2 D' R' D L B2 D2 U L R U2 L R2 U D2 F' 
+
+Tue May 26 16:45:54 BRT 2015
+
+341. 16.631
+
+R' L2 U2 F' R F B2 R2 U R' U' R' L2 U' D' R2 B F2 U B R' U R' B F2 
+
+Tue May 26 16:45:19 BRT 2015
+
+342. 21.148
+
+B2 F D2 L B2 F2 D' U' F' U B' U2 D' F U2 F2 D2 U F' U2 L B' D2 L' D 
+
+Tue May 26 16:44:40 BRT 2015
+
+343. 20.433
+
+L2 U D B' U' D' L2 D' F2 D B2 D' U2 R' B2 L2 U2 L' B2 L' R2 D L2 F' B2 
+
+Tue May 26 16:44:04 BRT 2015
+
+344. 22.362
+
+L2 F2 L' B D L U' R' L F' D' L' F2 D B2 F U2 F' B2 R B' F U' F2 R' 
+
+Tue May 26 16:43:24 BRT 2015
+
+345. 19.111
+
+D' U' F2 B D2 B' L' D U' R F U2 D2 B2 D U2 R F2 D' R L B F L' U2 
+
+Tue May 26 16:41:19 BRT 2015
+
+346. 22.832
+
+U' D' R2 B L B L F D R' U' D L B2 L' R' B F2 D' B' U B U R2 U' 
+
+Tue May 26 16:40:43 BRT 2015
+
+347. 18.622
+
+F2 B' L B L R B L B2 F U2 B' R D' F2 U' R2 F2 D B' D' B D B2 F' 
+
+Tue May 26 16:40:02 BRT 2015
+
+348. 19.685
+
+U2 R' D R2 U B D2 R' L2 U D2 F2 L' D2 L R F' L' B2 D2 F' L2 D' U R2 
+
+Tue May 26 16:36:42 BRT 2015
+
+349. 22.003
+
+L F L' B2 D L' D2 B U' D2 B2 R D2 U' L' U' R' B' F2 R U' F B2 R' F2 
+
+Tue May 26 16:34:56 BRT 2015
+
+350. 18.764
+
+B2 D2 U2 F2 R2 D R' D F B D' R' D U' L R2 U R' L F2 L2 D2 F B' D 
+
+Tue May 26 16:34:18 BRT 2015
+
+351. 21.987
+
+U R' L2 D' U' R B F2 D2 F B' R2 L2 U2 F L2 R2 D L F' L F L R F' 
+
+Tue May 26 16:33:42 BRT 2015
+
+352. 21.073
+
+U D' L U D2 B2 D R B D2 R2 L' F D2 F2 U2 D F2 D' L' F' D F' B D2 
+
+Tue May 26 16:33:02 BRT 2015
+
+353. 19.522
+
+D' U F R' F U D' R F R B2 D' U' F' L F U R2 U' D2 B' L U2 B L' 
+
+Tue May 26 16:32:21 BRT 2015
+
+354. 22.969
+
+F U' F' D2 B' L B2 R2 D R' B2 D R' B U' B2 R F U2 F2 L2 D' R2 B2 L2 
+
+Tue May 26 16:31:41 BRT 2015
+
+355. 22.358
+
+R2 F' B' U D R' L' F' R D2 U' F D' F2 U F' B2 U' R' F' D2 L2 D B2 D' 
+
+Tue May 26 16:31:00 BRT 2015
+
+356. 21.434
+
+U R2 U2 F' L2 R2 U2 R L B' L2 F' U B' F2 D2 B L' F2 L D' U2 F' D F' 
+
+Tue May 26 16:30:05 BRT 2015
+
+357. 18.567
+
+F B D' B F2 R D L2 D' U' R2 F U L R F U R2 U' L' U B2 R L B2 
+
+Tue May 26 16:29:21 BRT 2015
+
+358. 21.260
+
+B F2 R B L D' U2 F2 D L2 R B' L B2 D' R B D' L' D2 R2 D2 L2 U' F 
+
+Tue May 26 16:28:44 BRT 2015
+
+359. 21.188
+
+L U2 R U2 L' U' L2 D U B' L D R U2 F L' F' B2 L D U L' F' R' B 
+
+Tue May 26 16:28:04 BRT 2015
+
+360. 26.929
+
+L2 D2 F' B2 L F' B' L D' R2 B2 F' U2 R' U R2 B2 D' L2 U2 B2 U2 L R B 
+
+Tue May 26 16:27:25 BRT 2015
+
+361. 19.908
+
+D2 L F' D L' U' D2 L2 F D' U2 R L2 F D2 B F L2 B D B2 L U2 R F2 
+
+Tue May 26 16:26:41 BRT 2015
+
+362. 18.504
+
+L' F' B2 U B' L2 R' U' D' F2 L B2 R' F U' R D2 L B U D R U2 L' D 
+
+Tue May 26 16:23:32 BRT 2015
+
+363. 19.803
+
+U2 L' R2 D2 L2 R2 F' L2 R B2 L' U2 D2 R B R F' U R B2 D' L2 F' U R 
+
+Tue May 26 16:19:01 BRT 2015
+
+364. 20.474
+
+D' B F' U' R2 D' L D' F2 U D' F R F2 B2 U' D B' R2 F R2 F B U R' 
+
+Tue May 26 16:18:23 BRT 2015
+
+365. 17.260
+
+L2 B' R L' U' D' B' R' U' B2 F' U F D L U' D2 B' U2 L' B2 F2 D2 B2 U 
+
+Tue May 26 16:17:43 BRT 2015
+
+366. 28.665
+
+B R2 F U B2 U' L2 R' U' D L' D2 B L' B L2 B2 U D2 B' R' D F R2 F' 
+
+Tue May 26 16:17:07 BRT 2015
+
+367. 24.068
+
+L2 F U2 B' F2 U L2 U' D2 F2 L' R B2 D R2 B' L' F R L F R' L2 B' F' 
+
+Tue May 26 16:16:16 BRT 2015
+
+368. 19.465
+
+B2 U2 D L' B D' B' L' B L' B R' D2 B' D' R2 F2 R L2 U' B2 U' R' D2 B2 
+
+Tue May 26 16:15:30 BRT 2015
+
+369. 14.812
+
+D2 R F' L' D' F R2 B2 D' L' F' R' L2 U D B D2 B' D' R2 L' F2 R2 D' R' 
+
+Tue May 26 16:14:54 BRT 2015
+
+370. 17.393
+
+R2 U2 B2 U' D2 R F D' B2 F2 U2 R' U B U D2 F2 B2 U' D2 L' F' U F U' 
+
+Tue May 26 16:13:07 BRT 2015
+
+371. 18.356
+
+F2 B2 D F U B2 R2 U D' B D' U' F' B2 U' F B' U2 D' L2 B2 D2 F2 U' R 
+
+Tue May 26 16:12:28 BRT 2015
+
+372. 23.753
+
+B' U2 B2 F' L2 F' D L2 U' L' F2 U2 R U L2 B R L2 F2 L R U2 B2 F2 L' 
+
+Tue May 26 16:11:46 BRT 2015
+
+373. 21.371
+
+D2 R B2 U2 R B2 F' D' L' D F2 B' L B2 R' F2 U' R' U R2 D2 B U' F B 
+
+Tue May 26 16:11:05 BRT 2015
+
+374. 17.158
+
+L' U' D B' D2 R' B2 R D' L' R' B2 U' F2 L2 F D R' D2 L2 D2 F2 R2 U' B 
+
+Tue May 26 16:10:25 BRT 2015
+
+375. 23.071
+
+D2 L F' L2 R U' B' F2 L R2 D2 L' D' F2 U B U F B2 R B2 R' L F' D 
+
+Tue May 26 16:09:29 BRT 2015
+
+376. 29.466
+
+R2 L B2 L2 U F2 B L2 R' B' F' U L B D2 F' D' R D' U2 R U2 B2 U B 
+
+Tue May 26 16:08:20 BRT 2015
+
+377. 21.801
+
+R' F' L' D2 R B F2 L' B2 F U2 R2 U D2 L' B R F' D F U B2 D B U 
+
+Tue May 26 16:07:24 BRT 2015
+
+378. 21.100
+
+L F2 L D B' D' R2 U' L2 D' B' U' L B' R' U' D' R2 B2 D2 F U B R2 U2 
+
+Tue May 26 16:06:17 BRT 2015
+
+379. 18.680
+
+F2 L' R' F' D F' B2 R D2 U' F2 D B U2 L2 U L2 B F U2 B' L2 R D B' 
+
+Tue May 26 14:25:56 BRT 2015
+
+380. 21.351
+
+U2 R' U' R2 F L' B2 R' L2 D2 L U2 F R2 B F' U2 R2 F' D B F D2 U L' 
+
+Tue May 26 14:25:18 BRT 2015
+
+381. 19.264
+
+B' U' R U' F' U' L2 F' U D' L F' L2 R2 B' L2 R' B L2 B2 R L' F2 U2 R 
+
+Tue May 26 14:24:30 BRT 2015
+
+382. 20.118
+
+U' L D U' R' B2 D' B F2 D R B2 U2 B' D R U B' U2 F2 L2 F2 R' U2 B' 
+
+Tue May 26 14:13:51 BRT 2015
+
+383. 20.249
+
+L' U F' L B' R2 F2 U2 B U L2 B2 D2 U' F2 L2 U2 R U2 R2 L U' L2 D2 B2 
+
+Tue May 26 14:11:23 BRT 2015
+
+384. 19.830
+
+D2 B2 U F2 D L2 F' D' L2 D' L B2 L B R' F' U2 B' L2 B' L2 F2 B2 D' L 
+
+Tue May 26 14:09:07 BRT 2015
+
+385. 19.021
+
+B' U' D' R D R' F2 U F B L' F L2 B' R' D' F2 L' U R2 L2 F L' U L2 
+
+Tue May 26 14:08:21 BRT 2015
+
+386. 23.827
+
+U B' F U' F' L2 U' F D F' U R' F L2 D R' L' B2 L R2 F R2 L U' L' 
+
+Tue May 26 14:07:48 BRT 2015
+
+387. 23.951
+
+U2 B' U B L2 U2 R L F' B U D B2 D2 F U2 F2 B2 R2 B2 L F' B' L U2 
+
+Tue May 26 14:07:06 BRT 2015
+
+388. 16.175
+
+U B' D2 R' B L' D L R D2 F' B R' D B2 D R2 F R' U2 D2 F2 R F' D2 
+
+Tue May 26 14:06:24 BRT 2015
+
+389. 18.398
+
+U' D2 R' L2 F D' R' F' D U' R F' D F' L U2 F' R B' R D2 B2 F' D R2 
+
+Tue May 26 14:04:09 BRT 2015
+
+390. 22.066
+
+R D R' B U2 L B U2 B L B' L' F2 R2 D F' L' R B' U2 L B' F L' D' 
+
+Tue May 26 14:03:34 BRT 2015
+
+391. 22.495
+
+B' R B2 R B2 L F2 B' L2 U D2 R' B L2 B' F U' L' F' R' L U2 L U2 D2 
+
+Tue May 26 14:02:47 BRT 2015
+
+392. 21.414
+
+D2 F2 D2 B2 U2 B U' R' B2 D2 U' F2 D2 U2 L2 D2 R2 L2 B U2 B U2 R' F2 D 
+
+Tue May 26 14:01:28 BRT 2015
+
+393. 19.616
+
+B U F2 D2 F2 U' L' U' F' D' U' F R2 D' R F D' L2 F2 D' R B2 U R L' 
+
+Tue May 26 13:59:32 BRT 2015
+
+394. 19.410
+
+B' U2 R' B2 U' B F2 D2 R U' R' L' F2 D' R2 L2 D F2 B2 U' D R B2 L2 B2 
+
+Tue May 26 13:58:48 BRT 2015
+
+395. 20.588
+
+U2 L2 D' R B U L2 D2 F U2 R F U' F2 D B2 U F R B2 F2 R2 L2 B' L2 
+
+Tue May 26 13:54:49 BRT 2015
+
+396. 19.451
+
+B R2 F' U B U' D' R2 U2 D' R' F2 L R U' L2 D2 B2 U F L2 D L2 D2 U2 
+
+Tue May 26 13:54:11 BRT 2015
+
+397. 24.374
+
+R2 D L' U B2 R' B2 D' R2 U F2 L D B' L' B2 L2 U' L2 F' R' F2 R D B' 
+
+Tue May 26 13:53:33 BRT 2015
+
+398. 18.065
+
+F D' F2 D F' B2 D2 B2 D L B2 R D' R2 B2 R L F' L2 U' F' L' D' B2 F2 
+
+Tue May 26 13:52:50 BRT 2015
+
+399. 20.082
+
+L' F L' D R' D' R B2 D2 L F2 L' U2 F B2 R L2 F R2 U R' F2 R' F2 R 
+
+Tue May 26 13:52:14 BRT 2015
+
+400. 23.454
+
+R' B F' U L' D' R2 L U L F R' F' U R B' L2 B' R' B' U' B' L D2 R' 
+
+Tue May 26 13:51:25 BRT 2015
+
+401. 17.468
+
+F D2 R2 U' L2 U B' R L' B' F R' U' L B' R2 D' R2 L B L' B' U R2 F' 
+
+Tue May 26 13:50:29 BRT 2015
+
+402. 26.944
+
+U2 F' R2 B' F L' U' R' L D R2 B2 D' U' F R2 L D F D L' B' L' F U' 
+
+Tue May 26 13:49:52 BRT 2015
+
+403. 20.126
+
+B' R U2 D' L R2 F2 R2 L2 U D' B D' F2 L R2 F R B' L2 R' U2 F2 L B 
+
+Tue May 26 13:49:05 BRT 2015
+
+404. 18.465
+
+B' L R' B2 D' U' L' B' L2 F' R2 F2 R2 F' D F' U' B' R' D2 L2 R2 U2 R2 B' 
+
+Tue May 26 13:48:21 BRT 2015
+
+405. 18.826
+
+F2 L R2 F' D B F2 L R' U2 R D' U F2 D B R2 F L B2 D2 L2 U' F' D' 
+
+Tue May 26 13:45:10 BRT 2015
+
+406. 17.863
+
+B2 D' U2 F' L' R2 F' D2 B R U' B2 F U' D B2 D B' D2 F L' B L U L 
+
+Tue May 26 13:44:14 BRT 2015
+
+407. 19.362
+
+R2 D' U' R2 F2 U2 D2 B2 F2 L2 B2 L' D R B' F R F2 U' F2 D2 B' U2 B2 F2 
+
+Tue May 26 13:43:37 BRT 2015
+
+408. 25.012
+
+L' F' R2 F' D2 U F D B2 R' B2 L2 D L U2 F2 L' B' R2 F2 L U R' U' F2 
+
+Tue May 26 13:39:20 BRT 2015
+
+409. 18.368
+
+D' R L F' D2 U2 B2 D2 R2 D U2 R F' B2 D F2 L B D2 R2 D' R L' F U2 
+
+Tue May 26 13:38:00 BRT 2015
+
+410. 25.475
+
+U' B D2 F' D2 F B' L2 F R D' L2 R2 D B2 R' B2 D R2 F' L U2 F D2 R2 
+
+Tue May 26 13:37:22 BRT 2015
+
+411. 19.894
+
+D' B2 U' D F U2 R' F' D B F R' U2 F' B D B2 L2 U2 L' B2 F2 D2 L' D 
+
+Tue May 26 13:36:38 BRT 2015
+
+412. 21.132
+
+U F2 R L' F' D L U' D B' F L' F' B' U2 L' D' U R2 L' D F' L U' L' 
+
+Tue May 26 13:35:59 BRT 2015
+
+413. 23.449
+
+L' U' L R' B2 U2 F' R2 B2 L' D L' U2 D B U' L2 B2 R L' B' D2 R' U2 B' 
+
+Tue May 26 13:33:30 BRT 2015
+
+414. 21.157
+
+R' D' L2 F R2 B2 F U' F2 L R D F L D2 F2 B R2 F' B U' R' U L2 B 
+
+Tue May 26 13:32:47 BRT 2015
+
+415. 18.891
+
+B2 U F2 L' U' R2 D2 B' R' L D U' F R U' B L F2 D' U' B' D' F' B U 
+
+Tue May 26 13:31:39 BRT 2015
+
+416. 22.983
+
+B U' R' D B2 D2 F2 B D L U B' R B' U R' L D' L' D2 F2 L' U' R' D2 
+
+Tue May 26 13:30:41 BRT 2015
+
+417. 21.080
+
+U2 F U2 L D B2 F R' B' L2 F2 D2 R2 B2 L' R U B' D U R' U B2 L' F' 
+
+Tue May 26 13:30:00 BRT 2015
+
+418. 20.977
+
+F2 R B U L B2 L2 R' D' F R L' U L' F L2 U2 D2 B L D2 U B2 L U2 
+
+Tue May 26 13:28:46 BRT 2015
+
+419. 23.023
+
+B U' L' B D F2 L' B U2 D R2 U L F D B L U2 F2 U' D' L' U' F' D2 
+
+Tue May 26 13:28:04 BRT 2015
+
+420. 17.405
+
+B' U D2 R2 F2 D B F2 U' D L B L' F2 D2 U' R' L D R B D F2 D' F2 
+
+Tue May 26 13:27:23 BRT 2015
+
+421. 21.259
+
+R2 D B' D L U L' F2 B D' R B2 F D2 L2 F L2 U2 R D L2 U L' D2 F' 
+
+Tue May 26 13:26:48 BRT 2015
+
+422. 21.109
+
+F2 R' D R2 B R' U' D2 R U D' L' F' D' U' R L' B R B' D2 U2 F2 D2 B2 
+
+Tue May 26 13:26:05 BRT 2015
+
+423. 21.585
+
+R L' F2 L' U' D B' U2 L B U B' U' F' U2 B U F2 U2 B L D2 F2 B2 U 
+
+Tue May 26 13:25:25 BRT 2015
+
+424. 21.283
+
+F2 U' L B F2 R' L2 F2 L' F2 U' F2 L B2 D2 F' B U2 D2 B U2 B' R' F D 
+
+Tue May 26 13:24:11 BRT 2015
+
+425. 21.298
+
+R2 F U2 L' D L' B2 L2 B' F' L2 B F U2 D2 B' R L B2 D U2 B' F R' F 
+
+Tue May 26 13:23:07 BRT 2015
+
+426. 21.887
+
+B' L2 F' D2 L F' R2 U2 R2 L2 B' F' R2 L F D R' B2 L' D F' L' D2 L F' 
+
+Tue May 26 13:22:32 BRT 2015
+
+427. 21.473
+
+B D2 F B D' R L' U' L' D' B U2 R B' U2 L2 D' U2 F2 L' D2 F2 L' U' B2 
+
+Tue May 26 13:21:47 BRT 2015
+
+428. 20.643
+
+R' F B' U R2 D R' D' R' L' D L F' R2 F D L2 R2 U' L F' L2 R' B2 L 
+
+Tue May 26 13:21:10 BRT 2015
+
+429. 21.389
+
+R2 D U F' R' D2 U2 R' L B F' D2 U2 R U R2 D' F2 R L U F' B2 U2 R' 
+
+Tue May 26 13:20:31 BRT 2015
+
+430. 22.935
+
+B' R L' B' L F2 U' R2 U D2 R' F L2 R D L2 D' U2 B2 L R B U F U 
+
+Tue May 26 13:19:51 BRT 2015
+
+431. 19.023
+
+D' B' F U2 F' L F2 D' F D2 U' F U F D F2 L F2 L2 R2 D B R' D2 F 
+
+Tue May 26 13:18:16 BRT 2015
+
+432. 19.320
+
+F' L2 R' F' U2 B2 R B2 U' R' F2 D' B F U' D' F2 D' B' L' U' L F' L' R 
+
+Tue May 26 13:17:37 BRT 2015
+
+433. 22.345
+
+F2 U B2 F D2 R2 U2 D2 L2 U L B' D' F2 L' U2 F U F' R' D2 F R' U2 R' 
+
+Tue May 26 13:15:40 BRT 2015
+
+434. 16.188
+
+U2 L D2 R D2 B' L2 B' F' U' R F' D2 U' B U R2 L2 B' L B F2 D2 R F 
+
+Tue May 26 13:14:52 BRT 2015
+
+435. 23.891
+
+B2 U' R' L2 F B2 L2 D' R2 L' U2 B2 D B2 D2 B2 R2 B' R' B2 R' U R2 F2 D' 
+
+Tue May 26 13:14:11 BRT 2015
+
+436. 15.003
+
+U2 R' L F2 D' R' U' F B' U' F' D' R2 F2 L2 U' R L' D' L F R' U' R' D' 
+
+Tue May 26 13:13:22 BRT 2015
+
+437. 11.626
+
+B' F L B2 L R' B U' D' F2 L2 D' L' D U2 L' U D2 R' L2 B2 F D2 U' R 
+
+Tue May 26 13:10:42 BRT 2015
+
+438. 22.119
+
+U2 B2 L' R2 D' B' L2 B' D2 U2 L2 R F' B L' U2 L2 R' D B' F2 U' R' D2 F2 
+
+Tue May 26 13:10:13 BRT 2015
+
+439. 21.430
+
+U F' R' D U F' U B2 F' R U2 F' R D2 U' B' D' L' F2 D R2 D L F' B 
+
+Tue May 26 13:09:34 BRT 2015
+
+440. 19.461
+
+D2 R B L2 F2 R2 F2 R L' B L R2 B2 D2 B2 F U2 L2 U' B D U' R' U D2 
+
+Tue May 26 13:08:56 BRT 2015
+
+441. 16.627
+
+B' F2 D' F2 B2 D U2 F' U2 R' B' U2 L' F D' F' U' B' F2 U B F D' U2 B2 
+
+Tue May 26 13:08:19 BRT 2015
+
+442. 22.649
+
+U' D B F R F2 R2 B2 U2 D L2 F' D2 L B2 L' D' B' L D2 B L' R2 B U2 
+
+Tue May 26 13:07:33 BRT 2015
+
+443. 21.358
+
+U2 F' U' F' B' R' F2 L2 F2 B' U' D' L' R' F' U2 L' U2 D' R2 L B2 U' L' U2 
+
+Tue May 26 13:06:49 BRT 2015
+
+444. 17.819
+
+D' L' D' F B' U2 R' D F2 D2 L2 R' U R D' B2 F2 L' U F2 L2 B R2 D F 
+
+Tue May 26 13:06:08 BRT 2015
+
+445. 18.491
+
+D' U2 R' U2 L' D B F' U L' D2 F' L F' L' U' B' R2 B2 R' D2 F2 U L2 B 
+
+Tue May 26 13:05:35 BRT 2015
+
+446. 20.420
+
+L R2 U R' U2 F B' L2 D2 B R2 F2 L' D2 U L' F B U2 D' B' U' B F' L2 
+
+Tue May 26 13:04:54 BRT 2015
+
+447. 19.991
+
+F2 D' R F2 D' R2 L2 F U2 L F2 L2 F' D' F' R' D B L F' U2 R2 L2 D2 R' 
+
+Tue May 26 13:04:15 BRT 2015
+
+448. 15.716
+
+F2 L2 D2 L U2 F' L B D2 U2 B F U2 L B2 D' F B U L2 D' L R' B D 
+
+Tue May 26 13:03:36 BRT 2015
+
+449. 19.362
+
+U' F2 B2 U' L' U' R' D R U2 L2 U' F2 D' B2 F' L2 B R2 U B R2 L U B2 
+
+Tue May 26 13:03:04 BRT 2015
+
+450. 25.039
+
+B2 D U2 B' D2 F B' R2 B F2 D' L U D' L B F2 R' F U2 B R' F D' U2 
+
+Tue May 26 13:01:59 BRT 2015
+
+451. 17.759
+
+L2 U D B2 F' D U2 R' D' R' U2 L2 U2 F2 L R2 B D' F' L' R F U' B' U 
+
+Tue May 26 13:01:12 BRT 2015
+
+452. 21.734
+
+U2 L B D2 U2 B R D2 L D2 F' B' L' R B' L' D R2 D2 R' L F' R' L2 B 
+
+Tue May 26 13:00:34 BRT 2015
+
+453. 22.890
+
+R2 D F' L2 R B' D' R' D L R U F' R D' L2 B' U L' U2 F L2 R U' D2 
+
+Tue May 26 12:59:48 BRT 2015
+
+454. 19.147
+
+L2 D F2 U R2 F' R2 L' D L R' F2 R L2 U' F2 R' F2 D L R U' D' F2 L2 
+
+Tue May 26 12:59:10 BRT 2015
+
+455. 24.362
+
+U2 B R L2 F2 B2 L' D F U2 B R' B' F2 R2 L D' B2 L' U2 F' R F D' F' 
+
+Tue May 26 12:58:28 BRT 2015
+
+456. 25.184
+
+L2 F2 U F' B' D' F U2 B' D2 U2 B' R D2 U' R' D L2 F B' R2 B U' L U 
+
+Tue May 26 12:57:44 BRT 2015
+
+457. 17.782
+
+R' L2 F L U2 D2 R U2 L' R2 B' U F2 L' R U' D L2 B2 D2 U' R' B' U2 D' 
+
+Tue May 26 12:57:02 BRT 2015
+
+458. 23.107
+
+L' B2 U' F2 L' U2 B' L2 F D2 U2 L2 F2 D R L B F' U B2 F2 U' D R' F2 
+
+Tue May 26 12:56:25 BRT 2015
+
+459. 24.558
+
+L F' U L2 F R' F' B2 R B2 R' F R' B' R D L' D' U' L2 B' F' U' B' L 
+
+Tue May 26 12:55:39 BRT 2015
+
+460. 20.202
+
+R2 U' L F D' R2 U' B2 U' D' B D' B' F D2 L2 U2 B2 U B' U B D2 F R' 
+
+Tue May 26 12:54:56 BRT 2015
+
+461. 21.613
+
+L' D' U' L' D2 B R D2 B2 D' B' L' D F' B' R L2 U B2 D L' D B F' R2 
+
+Tue May 26 12:54:17 BRT 2015
+
+462. 16.733
+
+R B2 R2 L U2 R2 F' B D U2 F D' R2 U' B2 U2 D2 R L2 U2 D L U2 L D 
+
+Tue May 26 12:52:23 BRT 2015
+
+463. 17.757
+
+U' L' B2 L' D L2 B R' L2 B' R' U' B' F U' L' F2 R2 D U' R2 U' F B L 
+
+Tue May 26 12:49:54 BRT 2015
+
+464. 26.100
+
+U' F R L' F R2 U D2 R' L2 F2 U F2 B R2 L' U B' L2 D2 R U2 D' R' L' 
+
+Tue May 26 12:47:51 BRT 2015
+
+465. 15.161
+
+L F D' B' F D L U' L' R' F' U' B' L2 U2 F L2 D' L F B D2 B U' L' 
+
+Tue May 26 12:46:33 BRT 2015
+
+466. 23.304
+
+B2 L B D U' F' R L2 F L2 U' R' D2 F L' B' R2 L D2 U F B2 D2 U' L2 
+
+Tue May 26 12:45:59 BRT 2015
+
+467. 18.256
+
+D U2 B' R2 U2 F L D R2 D L D2 L D' F2 U2 R2 D U2 L' U' B2 F R' D' 
+
+Tue May 26 12:44:58 BRT 2015
+
+468. 19.611
+
+R2 D R' D2 L2 U' L' U' L' F U B R' D' R2 B D F2 B2 R B L' B F' D 
+
+Tue May 26 12:44:18 BRT 2015
+
+469. 19.108
+
+L' R' D' F L F' L2 U' B L' U' F R' D R' F U2 L' F2 U L2 F2 U2 D F2 
+
+Tue May 26 12:43:36 BRT 2015
+
+470. 18.377
+
+F2 L' D' B' F U L' U F2 R' L U D' F' R' B U D2 B F' L2 D2 U2 F' R' 
+
+Tue May 26 12:42:53 BRT 2015
+
+471. 27.414
+
+L' U' L' U2 F2 D' R D' B2 R2 F2 R2 F B' L' F2 B L R2 U' L2 D2 F D2 R 
+
+Tue May 26 12:42:12 BRT 2015
+
+472. 29.398
+
+U2 R' D' F2 R' L' U' F L2 R' F2 B' D' L R' D2 F L' R2 D' U' F' L2 R' B2 
+
+Tue May 26 12:41:21 BRT 2015
+
+473. 24.635
+
+F' L R F2 L U D' R U R' B2 D' L2 U F2 U' L' D U' L2 B2 D B2 D' R2 
+
+Tue May 26 12:40:29 BRT 2015
+
+474. 21.254
+
+D B2 U2 L2 D2 F' D F D' F' U' D2 B2 D' R L2 D' R2 U2 D2 R' U B2 L' F' 
+
+Tue May 26 12:39:34 BRT 2015
+
+475. 20.678
+
+R L' F U L2 B L' D2 B' U R' B2 D U' F2 B' R2 F U2 B2 U2 B2 R B' U2 
+
+Tue May 26 12:38:47 BRT 2015
+
+476. 25.682
+
+U2 L' B2 D' R L F D L R' D2 F2 U2 R D' R D B R2 L B2 D2 R F2 U2 
+
+Tue May 26 11:03:28 BRT 2015
+
+477. 20.099
+
+B' U2 D R L' U D2 F D2 B D F R' L2 U2 R U2 B U2 B U F L2 B D 
+
+Tue May 26 11:02:39 BRT 2015
+
+478. 17.836
+
+L' D R' B F2 R2 D B R2 B' U' D2 B' R L' F R2 U2 L' D R D' L F U' 
+
+Tue May 26 11:01:56 BRT 2015
+
+479. 16.500
+
+U D' B2 F2 U2 D' F' R' B' U' L B' U2 B F R' D' B2 F R2 L U F L U 
+
+Tue May 26 11:01:17 BRT 2015
+
+480. 21.635
+
+U' L R B' U L2 B L' F B R2 B2 D2 R2 F L B' D R2 U R2 F L2 D' R 
+
+Tue May 26 11:00:40 BRT 2015
+
+481. 18.960
+
+R2 B2 R' B2 R' U L2 D L' D' L F2 B R2 F R' F' B' R F2 U' L F2 U' B 
+
+Tue May 26 10:59:55 BRT 2015
+
+482. 18.177
+
+R2 U2 D' L' U B D B' U' F2 D F' R2 U' B' F' R2 U' L R B2 R L B' F 
+
+Tue May 26 10:59:16 BRT 2015
+
+483. 19.183
+
+B' R' B2 R' D' L' D2 L' U2 F L F2 B' R2 D U' B' U F2 U F' B L' F U2 
+
+Tue May 26 10:58:18 BRT 2015
+
+Recorded by Tap Timer
